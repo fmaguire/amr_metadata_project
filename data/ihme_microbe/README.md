@@ -1,0 +1,1 @@
+Data were downloaded from https://vizhub.healthdata.org/microbe pathogen-> map visualisation for each pathogen across all syndromes, ages, sexes, and 2019 using DALYs per 100k without age-standardisation
