@@ -1,0 +1,2074 @@
+	Country	IHME_taxa	SRA Samples
+0	Afghanistan	Acinetobacter baumannii	47
+1	Afghanistan	Aeromonas spp.	2
+2	Afghanistan	Enterococcus faecium	4
+3	Afghanistan	Escherichia coli	8
+4	Afghanistan	Klebsiella pneumoniae	1
+5	Afghanistan	Mycobacterium tuberculosis	1
+6	Afghanistan	Salmonella enterica serovar Typhi	2
+7	Afghanistan	Vibrio cholerae	4
+8	Albania	Acinetobacter baumannii	9
+9	Albania	Citrobacter spp.	1
+10	Albania	Enterobacter spp.	2
+11	Albania	Enterococcus faecalis	2
+12	Albania	Enterococcus faecium	2
+13	Albania	Escherichia coli	8
+14	Albania	Klebsiella pneumoniae	8
+15	Albania	Morganella spp.	1
+16	Albania	Mycobacterium tuberculosis	25
+17	Albania	Non-typhoidal Salmonella	18
+18	Albania	Other Klebsiella species	2
+19	Albania	Proteus spp.	2
+20	Albania	Pseudomonas aeruginosa	10
+21	Albania	Salmonella enterica serovar Paratyphi	1
+22	Albania	Staphylococcus aureus	5
+23	Algeria	Acinetobacter baumannii	6
+24	Algeria	Citrobacter spp.	1
+25	Algeria	Enterobacter spp.	4
+26	Algeria	Escherichia coli	9
+27	Algeria	Klebsiella pneumoniae	54
+28	Algeria	Listeria monocytogenes	2
+29	Algeria	Morganella spp.	1
+30	Algeria	Mycobacterium tuberculosis	13
+31	Algeria	Neisseria meningitidis	3
+32	Algeria	Non-typhoidal Salmonella	15
+33	Algeria	Proteus spp.	3
+34	Algeria	Providencia spp.	2
+35	Algeria	Pseudomonas aeruginosa	1
+36	Algeria	Salmonella enterica serovar Typhi	14
+37	Algeria	Staphylococcus aureus	74
+38	Algeria	Vibrio cholerae	2
+39	Angola	Enterococcus faecium	2
+40	Angola	Group B Streptococcus	16
+41	Angola	Salmonella enterica serovar Typhi	4
+42	Angola	Vibrio cholerae	2
+43	Argentina	Acinetobacter baumannii	37
+44	Argentina	Campylobacter spp.	6
+45	Argentina	Citrobacter spp.	1
+46	Argentina	Enterobacter spp.	13
+47	Argentina	Enterococcus faecalis	1
+48	Argentina	Enterococcus faecium	3
+49	Argentina	Escherichia coli	183
+50	Argentina	Group B Streptococcus	1
+51	Argentina	Klebsiella pneumoniae	26
+52	Argentina	Listeria monocytogenes	4
+53	Argentina	Mycobacterium tuberculosis	475
+54	Argentina	Neisseria gonorrhoeae	96
+55	Argentina	Non-typhoidal Salmonella	126
+56	Argentina	Other Klebsiella species	3
+57	Argentina	Pseudomonas aeruginosa	22
+58	Argentina	Salmonella enterica serovar Paratyphi	1
+59	Argentina	Salmonella enterica serovar Typhi	55
+60	Argentina	Shigella spp.	23
+61	Argentina	Staphylococcus aureus	134
+62	Argentina	Streptococcus pneumoniae	1
+63	Argentina	Vibrio cholerae	9
+64	Armenia	Escherichia coli	12
+65	Armenia	Klebsiella pneumoniae	8
+66	Armenia	Non-typhoidal Salmonella	14
+67	Armenia	Proteus spp.	1
+68	Armenia	Salmonella enterica serovar Typhi	32
+69	Australia	Acinetobacter baumannii	413
+70	Australia	Aeromonas spp.	31
+71	Australia	Campylobacter spp.	1767
+72	Australia	Chlamydia spp.	51
+73	Australia	Citrobacter spp.	129
+74	Australia	Clostridioides difficile	976
+75	Australia	Enterobacter spp.	788
+76	Australia	Enterococcus faecalis	62
+77	Australia	Enterococcus faecium	4252
+78	Australia	Escherichia coli	6788
+79	Australia	Group A Streptococcus	675
+80	Australia	Group B Streptococcus	88
+81	Australia	Haemophilus influenzae	208
+82	Australia	Klebsiella pneumoniae	2167
+83	Australia	Legionella spp.	517
+84	Australia	Listeria monocytogenes	679
+85	Australia	Morganella spp.	37
+86	Australia	Mycobacterium tuberculosis	860
+87	Australia	Neisseria gonorrhoeae	2433
+88	Australia	Neisseria meningitidis	14
+89	Australia	Non-typhoidal Salmonella	5554
+90	Australia	Other Klebsiella species	578
+91	Australia	Other enterococci	368
+92	Australia	Proteus spp.	51
+93	Australia	Providencia spp.	4
+94	Australia	Pseudomonas aeruginosa	897
+95	Australia	Salmonella enterica serovar Paratyphi	48
+96	Australia	Salmonella enterica serovar Typhi	3365
+97	Australia	Serratia spp.	288
+98	Australia	Shigella spp.	1177
+99	Australia	Staphylococcus aureus	4307
+100	Australia	Streptococcus pneumoniae	153
+101	Australia	Vibrio cholerae	118
+102	Austria	Campylobacter spp.	39
+103	Austria	Chlamydia spp.	2
+104	Austria	Clostridioides difficile	51
+105	Austria	Enterobacter spp.	4
+106	Austria	Enterococcus faecalis	27
+107	Austria	Enterococcus faecium	60
+108	Austria	Escherichia coli	198
+109	Austria	Klebsiella pneumoniae	109
+110	Austria	Legionella spp.	3
+111	Austria	Listeria monocytogenes	365
+112	Austria	Neisseria gonorrhoeae	1619
+113	Austria	Neisseria meningitidis	3
+114	Austria	Non-typhoidal Salmonella	129
+115	Austria	Other Klebsiella species	14
+116	Austria	Pseudomonas aeruginosa	1
+117	Austria	Staphylococcus aureus	19
+118	Austria	Streptococcus pneumoniae	2
+119	Azerbaijan	Mycobacterium tuberculosis	269
+120	Bahrain	Escherichia coli	55
+121	Bahrain	Vibrio cholerae	2
+122	Bangladesh	Acinetobacter baumannii	31
+123	Bangladesh	Aeromonas spp.	290
+124	Bangladesh	Campylobacter spp.	32
+125	Bangladesh	Citrobacter spp.	5
+126	Bangladesh	Enterobacter spp.	83
+127	Bangladesh	Enterococcus faecalis	3
+128	Bangladesh	Enterococcus faecium	1
+129	Bangladesh	Escherichia coli	350
+130	Bangladesh	Group B Streptococcus	2
+131	Bangladesh	Klebsiella pneumoniae	596
+132	Bangladesh	Mycobacterium tuberculosis	648
+133	Bangladesh	Non-typhoidal Salmonella	382
+134	Bangladesh	Other Klebsiella species	93
+135	Bangladesh	Proteus spp.	2
+136	Bangladesh	Pseudomonas aeruginosa	18
+137	Bangladesh	Salmonella enterica serovar Paratyphi	8
+138	Bangladesh	Salmonella enterica serovar Typhi	633
+139	Bangladesh	Serratia spp.	129
+140	Bangladesh	Shigella spp.	917
+141	Bangladesh	Staphylococcus aureus	20
+142	Bangladesh	Streptococcus pneumoniae	12
+143	Bangladesh	Vibrio cholerae	753
+144	Barbados	Non-typhoidal Salmonella	50
+145	Belarus	Acinetobacter baumannii	3
+146	Belarus	Klebsiella pneumoniae	10
+147	Belarus	Listeria monocytogenes	1
+148	Belarus	Mycobacterium tuberculosis	433
+149	Belarus	Non-typhoidal Salmonella	1
+150	Belarus	Salmonella enterica serovar Typhi	1
+151	Belgium	Acinetobacter baumannii	92
+152	Belgium	Campylobacter spp.	55
+153	Belgium	Clostridioides difficile	15
+154	Belgium	Enterobacter spp.	14
+155	Belgium	Enterococcus faecalis	102
+156	Belgium	Enterococcus faecium	74
+157	Belgium	Escherichia coli	1584
+158	Belgium	Group B Streptococcus	4
+159	Belgium	Klebsiella pneumoniae	14
+160	Belgium	Legionella spp.	1
+161	Belgium	Listeria monocytogenes	18
+162	Belgium	Mycobacterium tuberculosis	247
+163	Belgium	Neisseria gonorrhoeae	126
+164	Belgium	Neisseria meningitidis	192
+165	Belgium	Non-typhoidal Salmonella	204
+166	Belgium	Other Klebsiella species	9
+167	Belgium	Other enterococci	26
+168	Belgium	Proteus spp.	1
+169	Belgium	Pseudomonas aeruginosa	164
+170	Belgium	Salmonella enterica serovar Paratyphi	8
+171	Belgium	Salmonella enterica serovar Typhi	104
+172	Belgium	Serratia spp.	12
+173	Belgium	Shigella spp.	667
+174	Belgium	Staphylococcus aureus	299
+175	Belgium	Streptococcus pneumoniae	271
+176	Belize	Non-typhoidal Salmonella	28
+177	Benin	Acinetobacter baumannii	3
+178	Benin	Enterococcus faecalis	2
+179	Benin	Escherichia coli	31
+180	Benin	Klebsiella pneumoniae	1
+181	Benin	Mycobacterium tuberculosis	1
+182	Benin	Neisseria meningitidis	11
+183	Benin	Non-typhoidal Salmonella	37
+184	Benin	Other Klebsiella species	1
+185	Benin	Proteus spp.	4
+186	Benin	Salmonella enterica serovar Typhi	10
+187	Benin	Serratia spp.	1
+188	Benin	Staphylococcus aureus	1
+189	Bhutan	Mycobacterium tuberculosis	2
+190	Bolivia	Citrobacter spp.	1
+191	Bolivia	Escherichia coli	52
+192	Bolivia	Non-typhoidal Salmonella	9
+193	Bolivia	Vibrio cholerae	1
+194	Bosnia and Herzegovina	Mycobacterium tuberculosis	6
+195	Botswana	Campylobacter spp.	92
+196	Botswana	Enterobacter spp.	1
+197	Botswana	Mycobacterium tuberculosis	150
+198	Brazil	Acinetobacter baumannii	73
+199	Brazil	Aeromonas spp.	7
+200	Brazil	Campylobacter spp.	207
+201	Brazil	Citrobacter spp.	5
+202	Brazil	Clostridioides difficile	39
+203	Brazil	Enterobacter spp.	17
+204	Brazil	Enterococcus faecalis	25
+205	Brazil	Enterococcus faecium	35
+206	Brazil	Escherichia coli	481
+207	Brazil	Group B Streptococcus	1
+208	Brazil	Haemophilus influenzae	11
+209	Brazil	Klebsiella pneumoniae	193
+210	Brazil	Listeria monocytogenes	38
+211	Brazil	Mycobacterium tuberculosis	1865
+212	Brazil	Neisseria gonorrhoeae	116
+213	Brazil	Neisseria meningitidis	3
+214	Brazil	Non-typhoidal Salmonella	2621
+215	Brazil	Other Klebsiella species	44
+216	Brazil	Other enterococci	12
+217	Brazil	Proteus spp.	1
+218	Brazil	Providencia spp.	2
+219	Brazil	Pseudomonas aeruginosa	8
+220	Brazil	Salmonella enterica serovar Typhi	221
+221	Brazil	Serratia spp.	7
+222	Brazil	Shigella spp.	14
+223	Brazil	Staphylococcus aureus	27
+224	Brazil	Streptococcus pneumoniae	65
+225	Brazil	Vibrio cholerae	5
+226	Brunei	Non-typhoidal Salmonella	2
+227	Bulgaria	Clostridioides difficile	8
+228	Bulgaria	Enterobacter spp.	3
+229	Bulgaria	Enterococcus faecalis	8
+230	Bulgaria	Enterococcus faecium	2
+231	Bulgaria	Escherichia coli	35
+232	Bulgaria	Group B Streptococcus	11
+233	Bulgaria	Klebsiella pneumoniae	2
+234	Bulgaria	Listeria monocytogenes	2
+235	Bulgaria	Morganella spp.	1
+236	Bulgaria	Mycobacterium tuberculosis	113
+237	Bulgaria	Non-typhoidal Salmonella	13
+238	Bulgaria	Other Klebsiella species	4
+239	Bulgaria	Proteus spp.	4
+240	Bulgaria	Pseudomonas aeruginosa	9
+241	Bulgaria	Serratia spp.	1
+242	Bulgaria	Staphylococcus aureus	8
+243	Burkina Faso	Acinetobacter baumannii	4
+244	Burkina Faso	Campylobacter spp.	2
+245	Burkina Faso	Enterobacter spp.	4
+246	Burkina Faso	Enterococcus faecalis	1
+247	Burkina Faso	Enterococcus faecium	2
+248	Burkina Faso	Escherichia coli	61
+249	Burkina Faso	Klebsiella pneumoniae	14
+250	Burkina Faso	Morganella spp.	1
+251	Burkina Faso	Neisseria meningitidis	403
+252	Burkina Faso	Non-typhoidal Salmonella	4
+253	Burkina Faso	Other Klebsiella species	3
+254	Burkina Faso	Proteus spp.	1
+255	Burkina Faso	Providencia spp.	1
+256	Burkina Faso	Pseudomonas aeruginosa	3
+257	Burkina Faso	Salmonella enterica serovar Typhi	31
+258	Burkina Faso	Shigella spp.	1
+259	Burkina Faso	Staphylococcus aureus	5
+260	Burkina Faso	Streptococcus pneumoniae	1
+261	Burundi	Mycobacterium tuberculosis	1
+262	Cambodia	Acinetobacter baumannii	55
+263	Cambodia	Clostridioides difficile	36
+264	Cambodia	Escherichia coli	800
+265	Cambodia	Klebsiella pneumoniae	393
+266	Cambodia	Listeria monocytogenes	2
+267	Cambodia	Mycobacterium tuberculosis	80
+268	Cambodia	Neisseria meningitidis	8
+269	Cambodia	Non-typhoidal Salmonella	157
+270	Cambodia	Other Klebsiella species	7
+271	Cambodia	Pseudomonas aeruginosa	10
+272	Cambodia	Salmonella enterica serovar Paratyphi	34
+273	Cambodia	Salmonella enterica serovar Typhi	309
+274	Cambodia	Serratia spp.	4
+275	Cambodia	Shigella spp.	4
+276	Cambodia	Staphylococcus aureus	538
+277	Cambodia	Streptococcus pneumoniae	65
+278	Cameroon	Enterobacter spp.	3
+279	Cameroon	Escherichia coli	25
+280	Cameroon	Klebsiella pneumoniae	2
+281	Cameroon	Mycoplasma spp.	2
+282	Cameroon	Neisseria meningitidis	1
+283	Cameroon	Non-typhoidal Salmonella	13
+284	Cameroon	Other Klebsiella species	1
+285	Cameroon	Pseudomonas aeruginosa	3
+286	Cameroon	Salmonella enterica serovar Typhi	54
+287	Cameroon	Shigella spp.	2
+288	Cameroon	Vibrio cholerae	41
+289	Canada	Acinetobacter baumannii	111
+290	Canada	Aeromonas spp.	12
+291	Canada	Campylobacter spp.	745
+292	Canada	Chlamydia spp.	3
+293	Canada	Citrobacter spp.	182
+294	Canada	Clostridioides difficile	215
+295	Canada	Enterobacter spp.	286
+296	Canada	Enterococcus faecalis	536
+297	Canada	Enterococcus faecium	522
+298	Canada	Escherichia coli	7923
+299	Canada	Group A Streptococcus	963
+300	Canada	Group B Streptococcus	338
+301	Canada	Haemophilus influenzae	243
+302	Canada	Klebsiella pneumoniae	430
+303	Canada	Legionella spp.	93
+304	Canada	Listeria monocytogenes	2499
+305	Canada	Morganella spp.	15
+306	Canada	Mycobacterium tuberculosis	3203
+307	Canada	Neisseria gonorrhoeae	1280
+308	Canada	Neisseria meningitidis	4
+309	Canada	Non-typhoidal Salmonella	13284
+310	Canada	Other Klebsiella species	66
+311	Canada	Other enterococci	292
+312	Canada	Proteus spp.	30
+313	Canada	Providencia spp.	1
+314	Canada	Pseudomonas aeruginosa	1778
+315	Canada	Salmonella enterica serovar Paratyphi	97
+316	Canada	Salmonella enterica serovar Typhi	1688
+317	Canada	Serratia spp.	49
+318	Canada	Shigella spp.	337
+319	Canada	Staphylococcus aureus	698
+320	Canada	Streptococcus pneumoniae	1795
+321	Canada	Vibrio cholerae	10
+322	Cape Verde	Salmonella enterica serovar Typhi	2
+323	Central African Republic	Group B Streptococcus	12
+324	Central African Republic	Neisseria meningitidis	1
+325	Central African Republic	Non-typhoidal Salmonella	1
+326	Central African Republic	Pseudomonas aeruginosa	1
+327	Central African Republic	Salmonella enterica serovar Typhi	6
+328	Chad	Neisseria meningitidis	127
+329	Chad	Non-typhoidal Salmonella	3
+330	Chile	Acinetobacter baumannii	50
+331	Chile	Campylobacter spp.	224
+332	Chile	Clostridioides difficile	5
+333	Chile	Enterococcus faecalis	5
+334	Chile	Enterococcus faecium	2
+335	Chile	Escherichia coli	253
+336	Chile	Group B Streptococcus	1
+337	Chile	Klebsiella pneumoniae	46
+338	Chile	Listeria monocytogenes	545
+339	Chile	Neisseria gonorrhoeae	2
+340	Chile	Neisseria meningitidis	3
+341	Chile	Non-typhoidal Salmonella	2483
+342	Chile	Pseudomonas aeruginosa	24
+343	Chile	Salmonella enterica serovar Typhi	33
+344	Chile	Serratia spp.	1
+345	Chile	Staphylococcus aureus	86
+346	China	Acinetobacter baumannii	1566
+347	China	Aeromonas spp.	135
+348	China	Campylobacter spp.	234
+349	China	Chlamydia spp.	10
+350	China	Citrobacter spp.	35
+351	China	Clostridioides difficile	391
+352	China	Enterobacter spp.	682
+353	China	Enterococcus faecalis	94
+354	China	Enterococcus faecium	73
+355	China	Escherichia coli	4852
+356	China	Group A Streptococcus	93
+357	China	Group B Streptococcus	262
+358	China	Haemophilus influenzae	2
+359	China	Klebsiella pneumoniae	2750
+360	China	Legionella spp.	45
+361	China	Listeria monocytogenes	449
+362	China	Morganella spp.	23
+363	China	Mycobacterium tuberculosis	9608
+364	China	Mycoplasma spp.	2
+365	China	Neisseria gonorrhoeae	1284
+366	China	Neisseria meningitidis	47
+367	China	Non-typhoidal Salmonella	3457
+368	China	Other Klebsiella species	104
+369	China	Other enterococci	28
+370	China	Proteus spp.	45
+371	China	Providencia spp.	9
+372	China	Pseudomonas aeruginosa	1606
+373	China	Salmonella enterica serovar Paratyphi	3
+374	China	Salmonella enterica serovar Typhi	147
+375	China	Serratia spp.	25
+376	China	Shigella spp.	798
+377	China	Staphylococcus aureus	2940
+378	China	Streptococcus pneumoniae	128
+379	China	Vibrio cholerae	496
+380	Colombia	Acinetobacter baumannii	27
+381	Colombia	Aeromonas spp.	1
+382	Colombia	Campylobacter spp.	5
+383	Colombia	Enterobacter spp.	61
+384	Colombia	Enterococcus faecalis	3
+385	Colombia	Escherichia coli	16
+386	Colombia	Haemophilus influenzae	3
+387	Colombia	Klebsiella pneumoniae	117
+388	Colombia	Listeria monocytogenes	8
+389	Colombia	Mycobacterium tuberculosis	182
+390	Colombia	Neisseria gonorrhoeae	12
+391	Colombia	Non-typhoidal Salmonella	601
+392	Colombia	Other Klebsiella species	15
+393	Colombia	Providencia spp.	14
+394	Colombia	Pseudomonas aeruginosa	124
+395	Colombia	Salmonella enterica serovar Paratyphi	2
+396	Colombia	Salmonella enterica serovar Typhi	91
+397	Colombia	Shigella spp.	6
+398	Colombia	Staphylococcus aureus	80
+399	Colombia	Streptococcus pneumoniae	6
+400	Colombia	Vibrio cholerae	5
+401	Comoros	Salmonella enterica serovar Typhi	6
+402	Costa Rica	Escherichia coli	1
+403	Costa Rica	Listeria monocytogenes	4
+404	Costa Rica	Mycobacterium tuberculosis	2
+405	Costa Rica	Non-typhoidal Salmonella	51
+406	Costa Rica	Pseudomonas aeruginosa	2
+407	Costa Rica	Salmonella enterica serovar Paratyphi	2
+408	Costa Rica	Salmonella enterica serovar Typhi	3
+409	Croatia	Acinetobacter baumannii	5
+410	Croatia	Citrobacter spp.	3
+411	Croatia	Enterobacter spp.	13
+412	Croatia	Enterococcus faecalis	5
+413	Croatia	Enterococcus faecium	6
+414	Croatia	Escherichia coli	150
+415	Croatia	Group B Streptococcus	1
+416	Croatia	Klebsiella pneumoniae	7
+417	Croatia	Morganella spp.	1
+418	Croatia	Non-typhoidal Salmonella	9
+419	Croatia	Other Klebsiella species	2
+420	Croatia	Proteus spp.	2
+421	Croatia	Providencia spp.	1
+422	Croatia	Pseudomonas aeruginosa	11
+423	Croatia	Salmonella enterica serovar Typhi	1
+424	Croatia	Serratia spp.	2
+425	Croatia	Staphylococcus aureus	2
+426	Croatia	Streptococcus pneumoniae	2
+427	Cuba	Escherichia coli	4
+428	Cuba	Neisseria meningitidis	3
+429	Cuba	Non-typhoidal Salmonella	1
+430	Cuba	Shigella spp.	1
+431	Cyprus	Acinetobacter baumannii	11
+432	Cyprus	Citrobacter spp.	1
+433	Cyprus	Clostridioides difficile	4
+434	Cyprus	Enterobacter spp.	2
+435	Cyprus	Enterococcus faecalis	3
+436	Cyprus	Enterococcus faecium	3
+437	Cyprus	Escherichia coli	27
+438	Cyprus	Haemophilus influenzae	1
+439	Cyprus	Klebsiella pneumoniae	3
+440	Cyprus	Morganella spp.	1
+441	Cyprus	Non-typhoidal Salmonella	15
+442	Cyprus	Other Klebsiella species	1
+443	Cyprus	Proteus spp.	2
+444	Cyprus	Pseudomonas aeruginosa	17
+445	Cyprus	Serratia spp.	2
+446	Cyprus	Staphylococcus aureus	16
+447	Czech Republic	Acinetobacter baumannii	6
+448	Czech Republic	Campylobacter spp.	11
+449	Czech Republic	Citrobacter spp.	2
+450	Czech Republic	Clostridioides difficile	35
+451	Czech Republic	Enterobacter spp.	29
+452	Czech Republic	Enterococcus faecalis	5
+453	Czech Republic	Enterococcus faecium	201
+454	Czech Republic	Escherichia coli	210
+455	Czech Republic	Group A Streptococcus	2
+456	Czech Republic	Group B Streptococcus	18
+457	Czech Republic	Klebsiella pneumoniae	139
+458	Czech Republic	Legionella spp.	2
+459	Czech Republic	Listeria monocytogenes	16
+460	Czech Republic	Morganella spp.	1
+461	Czech Republic	Mycobacterium tuberculosis	64
+462	Czech Republic	Neisseria meningitidis	114
+463	Czech Republic	Non-typhoidal Salmonella	29
+464	Czech Republic	Other Klebsiella species	6
+465	Czech Republic	Other enterococci	2
+466	Czech Republic	Proteus spp.	6
+467	Czech Republic	Providencia spp.	1
+468	Czech Republic	Pseudomonas aeruginosa	35
+469	Czech Republic	Salmonella enterica serovar Typhi	10
+470	Czech Republic	Serratia spp.	6
+471	Czech Republic	Staphylococcus aureus	105
+472	Czech Republic	Streptococcus pneumoniae	66
+473	Democratic Republic of the Congo	Escherichia coli	19
+474	Democratic Republic of the Congo	Mycobacterium tuberculosis	426
+475	Democratic Republic of the Congo	Non-typhoidal Salmonella	2
+476	Democratic Republic of the Congo	Pseudomonas aeruginosa	1
+477	Democratic Republic of the Congo	Salmonella enterica serovar Paratyphi	3
+478	Democratic Republic of the Congo	Salmonella enterica serovar Typhi	47
+479	Democratic Republic of the Congo	Vibrio cholerae	130
+480	Denmark	Acinetobacter baumannii	9
+481	Denmark	Aeromonas spp.	101
+482	Denmark	Campylobacter spp.	3788
+483	Denmark	Citrobacter spp.	51
+484	Denmark	Clostridioides difficile	14
+485	Denmark	Enterobacter spp.	47
+486	Denmark	Enterococcus faecalis	177
+487	Denmark	Enterococcus faecium	3921
+488	Denmark	Escherichia coli	3257
+489	Denmark	Group A Streptococcus	46
+490	Denmark	Group B Streptococcus	105
+491	Denmark	Haemophilus influenzae	62
+492	Denmark	Klebsiella pneumoniae	148
+493	Denmark	Legionella spp.	1
+494	Denmark	Listeria monocytogenes	618
+495	Denmark	Morganella spp.	4
+496	Denmark	Mycobacterium tuberculosis	1193
+497	Denmark	Neisseria gonorrhoeae	1
+498	Denmark	Neisseria meningitidis	6
+499	Denmark	Non-typhoidal Salmonella	1587
+500	Denmark	Other Klebsiella species	79
+501	Denmark	Other enterococci	3
+502	Denmark	Proteus spp.	59
+503	Denmark	Providencia spp.	4
+504	Denmark	Pseudomonas aeruginosa	461
+505	Denmark	Salmonella enterica serovar Typhi	595
+506	Denmark	Serratia spp.	12
+507	Denmark	Shigella spp.	9
+508	Denmark	Staphylococcus aureus	5322
+509	Denmark	Streptococcus pneumoniae	67
+510	Denmark	Vibrio cholerae	4
+511	Djibouti	Escherichia coli	1
+512	Djibouti	Mycobacterium tuberculosis	264
+513	Djibouti	Neisseria meningitidis	4
+514	Djibouti	Non-typhoidal Salmonella	1
+515	Djibouti	Vibrio cholerae	3
+516	Dominican Republic	Enterobacter spp.	2
+517	Dominican Republic	Escherichia coli	71
+518	Dominican Republic	Klebsiella pneumoniae	1
+519	Dominican Republic	Mycobacterium tuberculosis	81
+520	Dominican Republic	Neisseria gonorrhoeae	31
+521	Dominican Republic	Non-typhoidal Salmonella	141
+522	Dominican Republic	Shigella spp.	2
+523	Dominican Republic	Staphylococcus aureus	6
+524	Dominican Republic	Vibrio cholerae	1
+525	East Timor	Salmonella enterica serovar Typhi	2
+526	Ecuador	Acinetobacter baumannii	8
+527	Ecuador	Campylobacter spp.	81
+528	Ecuador	Enterobacter spp.	1
+529	Ecuador	Escherichia coli	2124
+530	Ecuador	Klebsiella pneumoniae	47
+531	Ecuador	Listeria monocytogenes	26
+532	Ecuador	Mycobacterium tuberculosis	88
+533	Ecuador	Non-typhoidal Salmonella	644
+534	Ecuador	Other Klebsiella species	7
+535	Ecuador	Pseudomonas aeruginosa	2
+536	Ecuador	Salmonella enterica serovar Typhi	3
+537	Ecuador	Serratia spp.	2
+538	Ecuador	Staphylococcus aureus	13
+539	Egypt	Acinetobacter baumannii	52
+540	Egypt	Campylobacter spp.	93
+541	Egypt	Enterobacter spp.	3
+542	Egypt	Enterococcus faecium	6
+543	Egypt	Escherichia coli	68
+544	Egypt	Klebsiella pneumoniae	51
+545	Egypt	Listeria monocytogenes	3
+546	Egypt	Non-typhoidal Salmonella	83
+547	Egypt	Other Klebsiella species	24
+548	Egypt	Proteus spp.	5
+549	Egypt	Pseudomonas aeruginosa	5
+550	Egypt	Salmonella enterica serovar Typhi	10
+551	Egypt	Serratia spp.	1
+552	Egypt	Shigella spp.	29
+553	Egypt	Staphylococcus aureus	59
+554	Egypt	Streptococcus pneumoniae	1
+555	Egypt	Vibrio cholerae	2
+556	El Salvador	Acinetobacter baumannii	2
+557	El Salvador	Non-typhoidal Salmonella	19
+558	El Salvador	Salmonella enterica serovar Typhi	2
+559	Eritrea	Mycobacterium tuberculosis	14
+560	Estonia	Campylobacter spp.	4
+561	Estonia	Enterobacter spp.	12
+562	Estonia	Enterococcus faecalis	60
+563	Estonia	Enterococcus faecium	34
+564	Estonia	Escherichia coli	17
+565	Estonia	Klebsiella pneumoniae	1
+566	Estonia	Listeria monocytogenes	1
+567	Estonia	Mycobacterium tuberculosis	14
+568	Estonia	Non-typhoidal Salmonella	12
+569	Estonia	Other Klebsiella species	5
+570	Estonia	Proteus spp.	1
+571	Ethiopia	Acinetobacter baumannii	27
+572	Ethiopia	Aeromonas spp.	1
+573	Ethiopia	Campylobacter spp.	18
+574	Ethiopia	Citrobacter spp.	1
+575	Ethiopia	Enterobacter spp.	27
+576	Ethiopia	Escherichia coli	354
+577	Ethiopia	Group B Streptococcus	121
+578	Ethiopia	Klebsiella pneumoniae	214
+579	Ethiopia	Listeria monocytogenes	14
+580	Ethiopia	Mycobacterium tuberculosis	290
+581	Ethiopia	Neisseria meningitidis	102
+582	Ethiopia	Non-typhoidal Salmonella	384
+583	Ethiopia	Other Klebsiella species	93
+584	Ethiopia	Pseudomonas aeruginosa	10
+585	Ethiopia	Salmonella enterica serovar Typhi	50
+586	Ethiopia	Serratia spp.	2
+587	Ethiopia	Shigella spp.	1
+588	Ethiopia	Staphylococcus aureus	2
+589	Ethiopia	Streptococcus pneumoniae	52
+590	Faroe Islands	Group A Streptococcus	7
+591	Fiji	Non-typhoidal Salmonella	5
+592	Fiji	Salmonella enterica serovar Typhi	464
+593	Finland	Acinetobacter baumannii	8
+594	Finland	Campylobacter spp.	672
+595	Finland	Chlamydia spp.	1
+596	Finland	Citrobacter spp.	21
+597	Finland	Clostridioides difficile	5
+598	Finland	Enterococcus faecium	2
+599	Finland	Escherichia coli	303
+600	Finland	Group A Streptococcus	985
+601	Finland	Haemophilus influenzae	2
+602	Finland	Klebsiella pneumoniae	26
+603	Finland	Listeria monocytogenes	5
+604	Finland	Mycobacterium tuberculosis	38
+605	Finland	Neisseria meningitidis	3
+606	Finland	Non-typhoidal Salmonella	61
+607	Finland	Other enterococci	1
+608	Finland	Salmonella enterica serovar Typhi	2
+609	Finland	Staphylococcus aureus	152
+610	Finland	Streptococcus pneumoniae	1
+611	France	Acinetobacter baumannii	23
+612	France	Aeromonas spp.	33
+613	France	Campylobacter spp.	853
+614	France	Chlamydia spp.	3
+615	France	Citrobacter spp.	31
+616	France	Clostridioides difficile	274
+617	France	Enterobacter spp.	274
+618	France	Enterococcus faecalis	71
+619	France	Enterococcus faecium	18
+620	France	Escherichia coli	4201
+621	France	Group A Streptococcus	21
+622	France	Group B Streptococcus	143
+623	France	Haemophilus influenzae	25
+624	France	Klebsiella pneumoniae	633
+625	France	Legionella spp.	95
+626	France	Listeria monocytogenes	1209
+627	France	Morganella spp.	8
+628	France	Mycobacterium tuberculosis	967
+629	France	Mycoplasma spp.	1
+630	France	Neisseria meningitidis	4
+631	France	Non-typhoidal Salmonella	1405
+632	France	Other Klebsiella species	161
+633	France	Other enterococci	122
+634	France	Proteus spp.	29
+635	France	Providencia spp.	1
+636	France	Pseudomonas aeruginosa	1126
+637	France	Salmonella enterica serovar Paratyphi	74
+638	France	Salmonella enterica serovar Typhi	34
+639	France	Serratia spp.	68
+640	France	Shigella spp.	127
+641	France	Staphylococcus aureus	1205
+642	France	Streptococcus pneumoniae	32
+643	France	Vibrio cholerae	80
+644	Gabon	Escherichia coli	4
+645	Gabon	Mycobacterium tuberculosis	5
+646	Gabon	Other enterococci	1
+647	Gabon	Salmonella enterica serovar Typhi	2
+648	Gabon	Staphylococcus aureus	4
+649	Gambia	Campylobacter spp.	28
+650	Gambia	Enterococcus faecalis	2
+651	Gambia	Escherichia coli	471
+652	Gambia	Group A Streptococcus	142
+653	Gambia	Group B Streptococcus	201
+654	Gambia	Klebsiella pneumoniae	8
+655	Gambia	Mycobacterium tuberculosis	1936
+656	Gambia	Non-typhoidal Salmonella	129
+657	Gambia	Salmonella enterica serovar Paratyphi	1
+658	Gambia	Salmonella enterica serovar Typhi	45
+659	Gambia	Shigella spp.	177
+660	Gambia	Staphylococcus aureus	169
+661	Georgia	Campylobacter spp.	40
+662	Georgia	Escherichia coli	2
+663	Georgia	Mycobacterium tuberculosis	5557
+664	Georgia	Non-typhoidal Salmonella	3
+665	Georgia	Other Klebsiella species	2
+666	Georgia	Vibrio cholerae	2
+667	Germany	Acinetobacter baumannii	361
+668	Germany	Aeromonas spp.	17
+669	Germany	Campylobacter spp.	652
+670	Germany	Chlamydia spp.	12
+671	Germany	Citrobacter spp.	163
+672	Germany	Clostridioides difficile	1508
+673	Germany	Enterobacter spp.	398
+674	Germany	Enterococcus faecalis	286
+675	Germany	Enterococcus faecium	2205
+676	Germany	Escherichia coli	4708
+677	Germany	Group A Streptococcus	17
+678	Germany	Group B Streptococcus	27
+679	Germany	Haemophilus influenzae	28
+680	Germany	Klebsiella pneumoniae	970
+681	Germany	Legionella spp.	10
+682	Germany	Listeria monocytogenes	2429
+683	Germany	Morganella spp.	10
+684	Germany	Mycobacterium tuberculosis	79
+685	Germany	Mycoplasma spp.	14
+686	Germany	Neisseria gonorrhoeae	3
+687	Germany	Neisseria meningitidis	39
+688	Germany	Non-typhoidal Salmonella	2987
+689	Germany	Other Klebsiella species	101
+690	Germany	Other enterococci	32
+691	Germany	Proteus spp.	17
+692	Germany	Providencia spp.	12
+693	Germany	Pseudomonas aeruginosa	1881
+694	Germany	Salmonella enterica serovar Paratyphi	2
+695	Germany	Salmonella enterica serovar Typhi	813
+696	Germany	Serratia spp.	32
+697	Germany	Shigella spp.	2
+698	Germany	Staphylococcus aureus	2126
+699	Germany	Streptococcus pneumoniae	64
+700	Germany	Vibrio cholerae	15
+701	Ghana	Acinetobacter baumannii	24
+702	Ghana	Aeromonas spp.	1
+703	Ghana	Citrobacter spp.	25
+704	Ghana	Enterobacter spp.	4
+705	Ghana	Enterococcus faecalis	1
+706	Ghana	Escherichia coli	201
+707	Ghana	Group B Streptococcus	4
+708	Ghana	Klebsiella pneumoniae	89
+709	Ghana	Morganella spp.	2
+710	Ghana	Mycobacterium tuberculosis	502
+711	Ghana	Neisseria meningitidis	78
+712	Ghana	Non-typhoidal Salmonella	152
+713	Ghana	Other Klebsiella species	7
+714	Ghana	Proteus spp.	2
+715	Ghana	Providencia spp.	8
+716	Ghana	Pseudomonas aeruginosa	62
+717	Ghana	Serratia spp.	3
+718	Ghana	Staphylococcus aureus	127
+719	Ghana	Streptococcus pneumoniae	5
+720	Ghana	Vibrio cholerae	213
+721	Greece	Acinetobacter baumannii	44
+722	Greece	Aeromonas spp.	1
+723	Greece	Clostridioides difficile	31
+724	Greece	Enterobacter spp.	23
+725	Greece	Enterococcus faecalis	1
+726	Greece	Enterococcus faecium	1
+727	Greece	Escherichia coli	61
+728	Greece	Klebsiella pneumoniae	318
+729	Greece	Listeria monocytogenes	6
+730	Greece	Neisseria meningitidis	6
+731	Greece	Non-typhoidal Salmonella	24
+732	Greece	Other Klebsiella species	4
+733	Greece	Proteus spp.	2
+734	Greece	Providencia spp.	1
+735	Greece	Pseudomonas aeruginosa	11
+736	Greece	Serratia spp.	1
+737	Greece	Staphylococcus aureus	15
+738	Greece	Streptococcus pneumoniae	3
+739	Greenland	Enterococcus faecalis	1
+740	Greenland	Escherichia coli	23
+741	Greenland	Group A Streptococcus	4
+742	Greenland	Group B Streptococcus	1
+743	Greenland	Other Klebsiella species	2
+744	Greenland	Pseudomonas aeruginosa	2
+745	Greenland	Staphylococcus aureus	15
+746	Greenland	Streptococcus pneumoniae	2
+747	Grenada	Non-typhoidal Salmonella	49
+748	Guam	Escherichia coli	1
+749	Guam	Non-typhoidal Salmonella	1
+750	Guam	Vibrio cholerae	2
+751	Guatemala	Enterobacter spp.	3
+752	Guatemala	Klebsiella pneumoniae	1
+753	Guatemala	Listeria monocytogenes	3
+754	Guatemala	Mycobacterium tuberculosis	22
+755	Guatemala	Non-typhoidal Salmonella	31
+756	Guatemala	Other Klebsiella species	4
+757	Guinea	Mycobacterium tuberculosis	1
+758	Guinea	Neisseria meningitidis	13
+759	Guinea	Non-typhoidal Salmonella	8
+760	Guinea	Salmonella enterica serovar Paratyphi	1
+761	Guinea	Salmonella enterica serovar Typhi	4
+762	Guinea Bissau	Escherichia coli	24
+763	Guyana	Escherichia coli	7
+764	Guyana	Non-typhoidal Salmonella	34
+765	Haiti	Escherichia coli	2
+766	Haiti	Non-typhoidal Salmonella	20
+767	Haiti	Other Klebsiella species	2
+768	Haiti	Pseudomonas aeruginosa	8
+769	Haiti	Shigella spp.	1
+770	Haiti	Vibrio cholerae	517
+771	Honduras	Acinetobacter baumannii	5
+772	Honduras	Clostridioides difficile	3
+773	Honduras	Klebsiella pneumoniae	3
+774	Honduras	Non-typhoidal Salmonella	24
+775	Hong Kong S.A.R.	Acinetobacter baumannii	13
+776	Hong Kong S.A.R.	Citrobacter spp.	5
+777	Hong Kong S.A.R.	Enterobacter spp.	20
+778	Hong Kong S.A.R.	Escherichia coli	208
+779	Hong Kong S.A.R.	Group A Streptococcus	1
+780	Hong Kong S.A.R.	Group B Streptococcus	10
+781	Hong Kong S.A.R.	Klebsiella pneumoniae	70
+782	Hong Kong S.A.R.	Listeria monocytogenes	4
+783	Hong Kong S.A.R.	Mycobacterium tuberculosis	5
+784	Hong Kong S.A.R.	Neisseria gonorrhoeae	212
+785	Hong Kong S.A.R.	Non-typhoidal Salmonella	149
+786	Hong Kong S.A.R.	Other Klebsiella species	22
+787	Hong Kong S.A.R.	Proteus spp.	1
+788	Hong Kong S.A.R.	Providencia spp.	2
+789	Hong Kong S.A.R.	Pseudomonas aeruginosa	8
+790	Hong Kong S.A.R.	Serratia spp.	1
+791	Hong Kong S.A.R.	Streptococcus pneumoniae	53
+792	Hong Kong S.A.R.	Vibrio cholerae	2
+793	Hungary	Acinetobacter baumannii	46
+794	Hungary	Citrobacter spp.	4
+795	Hungary	Clostridioides difficile	68
+796	Hungary	Enterobacter spp.	4
+797	Hungary	Enterococcus faecalis	9
+798	Hungary	Enterococcus faecium	4
+799	Hungary	Escherichia coli	415
+800	Hungary	Klebsiella pneumoniae	18
+801	Hungary	Listeria monocytogenes	4
+802	Hungary	Morganella spp.	1
+803	Hungary	Mycobacterium tuberculosis	2
+804	Hungary	Mycoplasma spp.	101
+805	Hungary	Non-typhoidal Salmonella	90
+806	Hungary	Other Klebsiella species	3
+807	Hungary	Proteus spp.	2
+808	Hungary	Pseudomonas aeruginosa	21
+809	Hungary	Serratia spp.	1
+810	Hungary	Shigella spp.	3
+811	Hungary	Staphylococcus aureus	130
+812	Iceland	Escherichia coli	2
+813	Iceland	Group A Streptococcus	1572
+814	Iceland	Listeria monocytogenes	1
+815	Iceland	Neisseria meningitidis	3
+816	Iceland	Non-typhoidal Salmonella	4
+817	Iceland	Staphylococcus aureus	27
+818	Iceland	Streptococcus pneumoniae	133
+819	India	Acinetobacter baumannii	210
+820	India	Aeromonas spp.	15
+821	India	Campylobacter spp.	35
+822	India	Citrobacter spp.	1
+823	India	Enterobacter spp.	31
+824	India	Enterococcus faecalis	3
+825	India	Enterococcus faecium	37
+826	India	Escherichia coli	705
+827	India	Group A Streptococcus	9
+828	India	Klebsiella pneumoniae	612
+829	India	Listeria monocytogenes	19
+830	India	Mycobacterium tuberculosis	1528
+831	India	Neisseria meningitidis	3
+832	India	Non-typhoidal Salmonella	1298
+833	India	Other Klebsiella species	32
+834	India	Other enterococci	4
+835	India	Proteus spp.	1
+836	India	Providencia spp.	1
+837	India	Pseudomonas aeruginosa	33
+838	India	Salmonella enterica serovar Paratyphi	114
+839	India	Salmonella enterica serovar Typhi	661
+840	India	Serratia spp.	5
+841	India	Shigella spp.	178
+842	India	Staphylococcus aureus	95
+843	India	Streptococcus pneumoniae	520
+844	India	Vibrio cholerae	231
+845	Indonesia	Clostridioides difficile	12
+846	Indonesia	Escherichia coli	59
+847	Indonesia	Klebsiella pneumoniae	28
+848	Indonesia	Listeria monocytogenes	23
+849	Indonesia	Mycobacterium tuberculosis	764
+850	Indonesia	Neisseria meningitidis	1
+851	Indonesia	Non-typhoidal Salmonella	519
+852	Indonesia	Pseudomonas aeruginosa	246
+853	Indonesia	Salmonella enterica serovar Paratyphi	3
+854	Indonesia	Salmonella enterica serovar Typhi	150
+855	Indonesia	Vibrio cholerae	22
+856	Iran	Acinetobacter baumannii	12
+857	Iran	Escherichia coli	92
+858	Iran	Klebsiella pneumoniae	2
+859	Iran	Mycobacterium tuberculosis	59
+860	Iran	Non-typhoidal Salmonella	9
+861	Iran	Providencia spp.	1
+862	Iran	Pseudomonas aeruginosa	1
+863	Iran	Shigella spp.	2
+864	Iraq	Acinetobacter baumannii	26
+865	Iraq	Clostridioides difficile	15
+866	Iraq	Escherichia coli	2
+867	Iraq	Mycobacterium tuberculosis	1
+868	Iraq	Non-typhoidal Salmonella	76
+869	Iraq	Pseudomonas aeruginosa	5
+870	Iraq	Salmonella enterica serovar Typhi	31
+871	Iraq	Vibrio cholerae	4
+872	Ireland	Campylobacter spp.	497
+873	Ireland	Clostridioides difficile	117
+874	Ireland	Enterobacter spp.	102
+875	Ireland	Enterococcus faecalis	3
+876	Ireland	Enterococcus faecium	683
+877	Ireland	Escherichia coli	527
+878	Ireland	Klebsiella pneumoniae	126
+879	Ireland	Listeria monocytogenes	174
+880	Ireland	Mycobacterium tuberculosis	293
+881	Ireland	Neisseria gonorrhoeae	58
+882	Ireland	Non-typhoidal Salmonella	1565
+883	Ireland	Other Klebsiella species	2
+884	Ireland	Pseudomonas aeruginosa	1
+885	Ireland	Salmonella enterica serovar Paratyphi	16
+886	Ireland	Salmonella enterica serovar Typhi	322
+887	Ireland	Shigella spp.	188
+888	Ireland	Staphylococcus aureus	781
+889	Ireland	Streptococcus pneumoniae	4
+890	Israel	Acinetobacter baumannii	77
+891	Israel	Aeromonas spp.	1
+892	Israel	Campylobacter spp.	3
+893	Israel	Citrobacter spp.	11
+894	Israel	Clostridioides difficile	2
+895	Israel	Enterobacter spp.	46
+896	Israel	Enterococcus faecium	179
+897	Israel	Escherichia coli	1370
+898	Israel	Group A Streptococcus	1
+899	Israel	Group B Streptococcus	49
+900	Israel	Klebsiella pneumoniae	337
+901	Israel	Legionella spp.	18
+902	Israel	Listeria monocytogenes	19
+903	Israel	Morganella spp.	1
+904	Israel	Mycobacterium tuberculosis	9
+905	Israel	Neisseria gonorrhoeae	2
+906	Israel	Non-typhoidal Salmonella	182
+907	Israel	Other Klebsiella species	14
+908	Israel	Other enterococci	3
+909	Israel	Proteus spp.	1
+910	Israel	Providencia spp.	6
+911	Israel	Pseudomonas aeruginosa	14
+912	Israel	Salmonella enterica serovar Typhi	3
+913	Israel	Serratia spp.	1
+914	Israel	Shigella spp.	328
+915	Israel	Staphylococcus aureus	2
+916	Israel	Vibrio cholerae	1
+917	Italy	Acinetobacter baumannii	60
+918	Italy	Aeromonas spp.	1
+919	Italy	Campylobacter spp.	1081
+920	Italy	Chlamydia spp.	2
+921	Italy	Citrobacter spp.	4
+922	Italy	Clostridioides difficile	130
+923	Italy	Enterobacter spp.	9
+924	Italy	Enterococcus faecalis	50
+925	Italy	Enterococcus faecium	15
+926	Italy	Escherichia coli	652
+927	Italy	Group A Streptococcus	1
+928	Italy	Group B Streptococcus	17
+929	Italy	Haemophilus influenzae	3
+930	Italy	Klebsiella pneumoniae	662
+931	Italy	Legionella spp.	8
+932	Italy	Listeria monocytogenes	1378
+933	Italy	Morganella spp.	1
+934	Italy	Mycobacterium tuberculosis	1508
+935	Italy	Neisseria gonorrhoeae	2
+936	Italy	Neisseria meningitidis	6
+937	Italy	Non-typhoidal Salmonella	1253
+938	Italy	Other Klebsiella species	11
+939	Italy	Other enterococci	1
+940	Italy	Proteus spp.	5
+941	Italy	Providencia spp.	3
+942	Italy	Pseudomonas aeruginosa	11
+943	Italy	Salmonella enterica serovar Typhi	44
+944	Italy	Serratia spp.	3
+945	Italy	Shigella spp.	1
+946	Italy	Staphylococcus aureus	545
+947	Italy	Streptococcus pneumoniae	19
+948	Jamaica	Listeria monocytogenes	48
+949	Jamaica	Non-typhoidal Salmonella	22
+950	Japan	Acinetobacter baumannii	36
+951	Japan	Aeromonas spp.	184
+952	Japan	Campylobacter spp.	313
+953	Japan	Citrobacter spp.	208
+954	Japan	Clostridioides difficile	45
+955	Japan	Enterobacter spp.	760
+956	Japan	Enterococcus faecalis	21
+957	Japan	Enterococcus faecium	218
+958	Japan	Escherichia coli	8345
+959	Japan	Group A Streptococcus	657
+960	Japan	Group B Streptococcus	7
+961	Japan	Haemophilus influenzae	4
+962	Japan	Klebsiella pneumoniae	1775
+963	Japan	Legionella spp.	89
+964	Japan	Listeria monocytogenes	39
+965	Japan	Morganella spp.	42
+966	Japan	Mycobacterium tuberculosis	1108
+967	Japan	Neisseria gonorrhoeae	271
+968	Japan	Neisseria meningitidis	57
+969	Japan	Non-typhoidal Salmonella	593
+970	Japan	Other Klebsiella species	623
+971	Japan	Other enterococci	12
+972	Japan	Proteus spp.	57
+973	Japan	Providencia spp.	17
+974	Japan	Pseudomonas aeruginosa	236
+975	Japan	Salmonella enterica serovar Paratyphi	102
+976	Japan	Salmonella enterica serovar Typhi	139
+977	Japan	Serratia spp.	262
+978	Japan	Shigella spp.	15
+979	Japan	Staphylococcus aureus	2180
+980	Japan	Streptococcus pneumoniae	180
+981	Japan	Vibrio cholerae	66
+982	Jordan	Acinetobacter baumannii	10
+983	Jordan	Enterobacter spp.	1
+984	Jordan	Non-typhoidal Salmonella	40
+985	Jordan	Salmonella enterica serovar Paratyphi	1
+986	Jordan	Salmonella enterica serovar Typhi	31
+987	Jordan	Vibrio cholerae	1
+988	Kazakhstan	Escherichia coli	4
+989	Kazakhstan	Klebsiella pneumoniae	7
+990	Kazakhstan	Mycobacterium tuberculosis	533
+991	Kazakhstan	Neisseria meningitidis	45
+992	Kazakhstan	Other Klebsiella species	1
+993	Kazakhstan	Pseudomonas aeruginosa	6
+994	Kazakhstan	Staphylococcus aureus	5
+995	Kazakhstan	Streptococcus pneumoniae	1
+996	Kenya	Acinetobacter baumannii	4
+997	Kenya	Campylobacter spp.	26
+998	Kenya	Citrobacter spp.	2
+999	Kenya	Enterobacter spp.	2
+1000	Kenya	Enterococcus faecalis	1
+1001	Kenya	Enterococcus faecium	2
+1002	Kenya	Escherichia coli	2532
+1003	Kenya	Group B Streptococcus	1162
+1004	Kenya	Klebsiella pneumoniae	157
+1005	Kenya	Mycobacterium tuberculosis	88
+1006	Kenya	Mycoplasma spp.	1
+1007	Kenya	Neisseria gonorrhoeae	51
+1008	Kenya	Neisseria meningitidis	2
+1009	Kenya	Non-typhoidal Salmonella	95
+1010	Kenya	Other Klebsiella species	3
+1011	Kenya	Other enterococci	2
+1012	Kenya	Salmonella enterica serovar Typhi	119
+1013	Kenya	Serratia spp.	2
+1014	Kenya	Shigella spp.	189
+1015	Kenya	Staphylococcus aureus	29
+1016	Kenya	Streptococcus pneumoniae	3
+1017	Kenya	Vibrio cholerae	39
+1018	Kiribati	Serratia spp.	4
+1019	Kuwait	Acinetobacter baumannii	270
+1020	Kuwait	Enterobacter spp.	7
+1021	Kuwait	Enterococcus faecium	1
+1022	Kuwait	Escherichia coli	86
+1023	Kuwait	Group B Streptococcus	2
+1024	Kuwait	Klebsiella pneumoniae	13
+1025	Kuwait	Non-typhoidal Salmonella	17
+1026	Kuwait	Proteus spp.	3
+1027	Kuwait	Salmonella enterica serovar Typhi	9
+1028	Kuwait	Shigella spp.	2
+1029	Kuwait	Staphylococcus aureus	5
+1030	Kuwait	Vibrio cholerae	2
+1031	Kyrgyzstan	Mycobacterium tuberculosis	20
+1032	Kyrgyzstan	Non-typhoidal Salmonella	1
+1033	Laos	Aeromonas spp.	1
+1034	Laos	Citrobacter spp.	28
+1035	Laos	Clostridioides difficile	2
+1036	Laos	Enterobacter spp.	11
+1037	Laos	Escherichia coli	285
+1038	Laos	Group B Streptococcus	45
+1039	Laos	Klebsiella pneumoniae	37
+1040	Laos	Mycobacterium tuberculosis	1
+1041	Laos	Neisseria meningitidis	2
+1042	Laos	Non-typhoidal Salmonella	9
+1043	Laos	Other Klebsiella species	5
+1044	Laos	Salmonella enterica serovar Typhi	139
+1045	Laos	Vibrio cholerae	37
+1046	Latvia	Campylobacter spp.	4
+1047	Latvia	Clostridioides difficile	1
+1048	Latvia	Escherichia coli	55
+1049	Latvia	Klebsiella pneumoniae	2
+1050	Latvia	Listeria monocytogenes	201
+1051	Latvia	Mycobacterium tuberculosis	166
+1052	Latvia	Non-typhoidal Salmonella	2
+1053	Lebanon	Acinetobacter baumannii	34
+1054	Lebanon	Enterobacter spp.	2
+1055	Lebanon	Escherichia coli	235
+1056	Lebanon	Klebsiella pneumoniae	45
+1057	Lebanon	Mycobacterium tuberculosis	21
+1058	Lebanon	Non-typhoidal Salmonella	306
+1059	Lebanon	Other Klebsiella species	3
+1060	Lebanon	Pseudomonas aeruginosa	63
+1061	Lebanon	Salmonella enterica serovar Paratyphi	1
+1062	Lebanon	Salmonella enterica serovar Typhi	68
+1063	Lebanon	Shigella spp.	2
+1064	Lebanon	Staphylococcus aureus	4
+1065	Liberia	Escherichia coli	1
+1066	Liberia	Salmonella enterica serovar Typhi	2
+1067	Libya	Acinetobacter baumannii	6
+1068	Lithuania	Acinetobacter baumannii	5
+1069	Lithuania	Campylobacter spp.	2
+1070	Lithuania	Enterobacter spp.	6
+1071	Lithuania	Enterococcus faecalis	2
+1072	Lithuania	Enterococcus faecium	2
+1073	Lithuania	Escherichia coli	59
+1074	Lithuania	Group A Streptococcus	2
+1075	Lithuania	Haemophilus influenzae	3
+1076	Lithuania	Klebsiella pneumoniae	8
+1077	Lithuania	Listeria monocytogenes	5
+1078	Lithuania	Mycobacterium tuberculosis	144
+1079	Lithuania	Non-typhoidal Salmonella	7
+1080	Lithuania	Pseudomonas aeruginosa	7
+1081	Lithuania	Staphylococcus aureus	13
+1082	Lithuania	Streptococcus pneumoniae	1
+1083	Luxembourg	Campylobacter spp.	185
+1084	Luxembourg	Escherichia coli	5
+1085	Luxembourg	Klebsiella pneumoniae	4
+1086	Luxembourg	Listeria monocytogenes	4
+1087	Luxembourg	Non-typhoidal Salmonella	28
+1088	Luxembourg	Staphylococcus aureus	125
+1089	Macedonia	Escherichia coli	1
+1090	Macedonia	Non-typhoidal Salmonella	1
+1091	Madagascar	Escherichia coli	872
+1092	Madagascar	Group B Streptococcus	11
+1093	Madagascar	Mycobacterium tuberculosis	275
+1094	Madagascar	Neisseria gonorrhoeae	46
+1095	Madagascar	Non-typhoidal Salmonella	4
+1096	Madagascar	Salmonella enterica serovar Paratyphi	12
+1097	Madagascar	Salmonella enterica serovar Typhi	8
+1098	Madagascar	Shigella spp.	7
+1099	Malawi	Escherichia coli	65
+1100	Malawi	Klebsiella pneumoniae	19
+1101	Malawi	Mycobacterium tuberculosis	1937
+1102	Malawi	Non-typhoidal Salmonella	165
+1103	Malawi	Other Klebsiella species	2
+1104	Malawi	Salmonella enterica serovar Typhi	238
+1105	Malawi	Staphylococcus aureus	220
+1106	Malawi	Streptococcus pneumoniae	129
+1107	Malaysia	Acinetobacter baumannii	12
+1108	Malaysia	Aeromonas spp.	1
+1109	Malaysia	Citrobacter spp.	1
+1110	Malaysia	Clostridioides difficile	19
+1111	Malaysia	Enterobacter spp.	4
+1112	Malaysia	Enterococcus faecalis	6
+1113	Malaysia	Enterococcus faecium	2
+1114	Malaysia	Escherichia coli	86
+1115	Malaysia	Group B Streptococcus	35
+1116	Malaysia	Klebsiella pneumoniae	63
+1117	Malaysia	Listeria monocytogenes	7
+1118	Malaysia	Mycobacterium tuberculosis	254
+1119	Malaysia	Non-typhoidal Salmonella	137
+1120	Malaysia	Other Klebsiella species	8
+1121	Malaysia	Other enterococci	4
+1122	Malaysia	Proteus spp.	1
+1123	Malaysia	Providencia spp.	1
+1124	Malaysia	Pseudomonas aeruginosa	5
+1125	Malaysia	Salmonella enterica serovar Typhi	4
+1126	Malaysia	Shigella spp.	4
+1127	Malaysia	Staphylococcus aureus	109
+1128	Malaysia	Streptococcus pneumoniae	17
+1129	Malaysia	Vibrio cholerae	5
+1130	Mali	Acinetobacter baumannii	2
+1131	Mali	Campylobacter spp.	49
+1132	Mali	Escherichia coli	179
+1133	Mali	Mycobacterium tuberculosis	3
+1134	Mali	Neisseria meningitidis	48
+1135	Mali	Non-typhoidal Salmonella	288
+1136	Mali	Salmonella enterica serovar Paratyphi	2
+1137	Mali	Salmonella enterica serovar Typhi	37
+1138	Mali	Shigella spp.	62
+1139	Mali	Staphylococcus aureus	1
+1140	Malta	Clostridioides difficile	2
+1141	Malta	Escherichia coli	11
+1142	Malta	Non-typhoidal Salmonella	5
+1143	Malta	Salmonella enterica serovar Typhi	2
+1144	Mauritania	Non-typhoidal Salmonella	1
+1145	Mauritania	Salmonella enterica serovar Typhi	4
+1146	Mauritius	Enterobacter spp.	1
+1147	Mauritius	Non-typhoidal Salmonella	29
+1148	Mauritius	Salmonella enterica serovar Typhi	1
+1149	Mauritius	Shigella spp.	1
+1150	Mexico	Acinetobacter baumannii	39
+1151	Mexico	Aeromonas spp.	2
+1152	Mexico	Campylobacter spp.	2
+1153	Mexico	Citrobacter spp.	3
+1154	Mexico	Clostridioides difficile	1
+1155	Mexico	Enterobacter spp.	4
+1156	Mexico	Enterococcus faecalis	1
+1157	Mexico	Enterococcus faecium	1
+1158	Mexico	Escherichia coli	188
+1159	Mexico	Haemophilus influenzae	5
+1160	Mexico	Klebsiella pneumoniae	27
+1161	Mexico	Listeria monocytogenes	278
+1162	Mexico	Mycobacterium tuberculosis	1294
+1163	Mexico	Non-typhoidal Salmonella	3763
+1164	Mexico	Other Klebsiella species	7
+1165	Mexico	Providencia spp.	4
+1166	Mexico	Pseudomonas aeruginosa	35
+1167	Mexico	Salmonella enterica serovar Paratyphi	1
+1168	Mexico	Salmonella enterica serovar Typhi	47
+1169	Mexico	Shigella spp.	3
+1170	Mexico	Staphylococcus aureus	1626
+1171	Mexico	Streptococcus pneumoniae	12
+1172	Mexico	Vibrio cholerae	3
+1173	Moldova	Listeria monocytogenes	4
+1174	Moldova	Mycobacterium tuberculosis	3790
+1175	Moldova	Staphylococcus aureus	8
+1176	Mongolia	Escherichia coli	49
+1177	Mongolia	Salmonella enterica serovar Typhi	6
+1178	Mongolia	Streptococcus pneumoniae	1
+1179	Morocco	Enterobacter spp.	4
+1180	Morocco	Escherichia coli	21
+1181	Morocco	Listeria monocytogenes	1
+1182	Morocco	Mycobacterium tuberculosis	2
+1183	Morocco	Neisseria meningitidis	3
+1184	Morocco	Non-typhoidal Salmonella	33
+1185	Morocco	Salmonella enterica serovar Paratyphi	1
+1186	Morocco	Salmonella enterica serovar Typhi	19
+1187	Morocco	Shigella spp.	4
+1188	Mozambique	Citrobacter spp.	1
+1189	Mozambique	Enterobacter spp.	4
+1190	Mozambique	Escherichia coli	179
+1191	Mozambique	Group B Streptococcus	35
+1192	Mozambique	Klebsiella pneumoniae	12
+1193	Mozambique	Morganella spp.	1
+1194	Mozambique	Mycobacterium tuberculosis	49
+1195	Mozambique	Non-typhoidal Salmonella	6
+1196	Mozambique	Other Klebsiella species	1
+1197	Mozambique	Proteus spp.	1
+1198	Mozambique	Pseudomonas aeruginosa	2
+1199	Mozambique	Salmonella enterica serovar Typhi	12
+1200	Mozambique	Shigella spp.	47
+1201	Mozambique	Staphylococcus aureus	3
+1202	Mozambique	Streptococcus pneumoniae	1
+1203	Mozambique	Vibrio cholerae	6
+1204	Myanmar	Acinetobacter baumannii	38
+1205	Myanmar	Citrobacter spp.	9
+1206	Myanmar	Enterobacter spp.	56
+1207	Myanmar	Escherichia coli	215
+1208	Myanmar	Group B Streptococcus	2
+1209	Myanmar	Klebsiella pneumoniae	102
+1210	Myanmar	Mycobacterium tuberculosis	454
+1211	Myanmar	Non-typhoidal Salmonella	124
+1212	Myanmar	Other Klebsiella species	2
+1213	Myanmar	Providencia spp.	1
+1214	Myanmar	Pseudomonas aeruginosa	46
+1215	Myanmar	Salmonella enterica serovar Paratyphi	1
+1216	Myanmar	Salmonella enterica serovar Typhi	9
+1217	Myanmar	Serratia spp.	1
+1218	Myanmar	Streptococcus pneumoniae	58
+1219	Namibia	Mycobacterium tuberculosis	1
+1220	Namibia	Mycoplasma spp.	1
+1221	Namibia	Non-typhoidal Salmonella	17
+1222	Namibia	Staphylococcus aureus	2
+1223	Nepal	Acinetobacter baumannii	122
+1224	Nepal	Citrobacter spp.	3
+1225	Nepal	Enterobacter spp.	117
+1226	Nepal	Escherichia coli	95
+1227	Nepal	Klebsiella pneumoniae	131
+1228	Nepal	Mycobacterium tuberculosis	88
+1229	Nepal	Non-typhoidal Salmonella	5
+1230	Nepal	Other Klebsiella species	3
+1231	Nepal	Pseudomonas aeruginosa	54
+1232	Nepal	Salmonella enterica serovar Paratyphi	23
+1233	Nepal	Salmonella enterica serovar Typhi	194
+1234	Nepal	Serratia spp.	11
+1235	Nepal	Shigella spp.	5
+1236	Nepal	Staphylococcus aureus	8
+1237	Nepal	Streptococcus pneumoniae	1
+1238	Nepal	Vibrio cholerae	1
+1239	Netherlands	Acinetobacter baumannii	25
+1240	Netherlands	Campylobacter spp.	1540
+1241	Netherlands	Chlamydia spp.	7
+1242	Netherlands	Citrobacter spp.	89
+1243	Netherlands	Clostridioides difficile	34
+1244	Netherlands	Enterobacter spp.	301
+1245	Netherlands	Enterococcus faecalis	5
+1246	Netherlands	Enterococcus faecium	1014
+1247	Netherlands	Escherichia coli	2916
+1248	Netherlands	Group A Streptococcus	115
+1249	Netherlands	Group B Streptococcus	4
+1250	Netherlands	Haemophilus influenzae	64
+1251	Netherlands	Klebsiella pneumoniae	793
+1252	Netherlands	Legionella spp.	3
+1253	Netherlands	Listeria monocytogenes	1295
+1254	Netherlands	Morganella spp.	5
+1255	Netherlands	Mycobacterium tuberculosis	2459
+1256	Netherlands	Neisseria gonorrhoeae	864
+1257	Netherlands	Neisseria meningitidis	33
+1258	Netherlands	Non-typhoidal Salmonella	388
+1259	Netherlands	Other Klebsiella species	51
+1260	Netherlands	Other enterococci	2
+1261	Netherlands	Proteus spp.	5
+1262	Netherlands	Providencia spp.	5
+1263	Netherlands	Pseudomonas aeruginosa	65
+1264	Netherlands	Salmonella enterica serovar Paratyphi	3
+1265	Netherlands	Salmonella enterica serovar Typhi	14
+1266	Netherlands	Serratia spp.	12
+1267	Netherlands	Staphylococcus aureus	6452
+1268	Netherlands	Streptococcus pneumoniae	177
+1269	Netherlands	Vibrio cholerae	1
+1270	New Caledonia	Escherichia coli	7
+1271	New Caledonia	Group B Streptococcus	1
+1272	New Caledonia	Shigella spp.	1
+1273	New Zealand	Acinetobacter baumannii	31
+1274	New Zealand	Aeromonas spp.	8
+1275	New Zealand	Campylobacter spp.	1773
+1276	New Zealand	Chlamydia spp.	4
+1277	New Zealand	Citrobacter spp.	3
+1278	New Zealand	Clostridioides difficile	12
+1279	New Zealand	Enterobacter spp.	9
+1280	New Zealand	Enterococcus faecalis	4
+1281	New Zealand	Enterococcus faecium	10
+1282	New Zealand	Escherichia coli	1278
+1283	New Zealand	Group A Streptococcus	60
+1284	New Zealand	Klebsiella pneumoniae	23
+1285	New Zealand	Legionella spp.	128
+1286	New Zealand	Listeria monocytogenes	641
+1287	New Zealand	Morganella spp.	1
+1288	New Zealand	Mycobacterium tuberculosis	896
+1289	New Zealand	Neisseria gonorrhoeae	732
+1290	New Zealand	Neisseria meningitidis	505
+1291	New Zealand	Non-typhoidal Salmonella	600
+1292	New Zealand	Other Klebsiella species	2
+1293	New Zealand	Proteus spp.	3
+1294	New Zealand	Pseudomonas aeruginosa	38
+1295	New Zealand	Serratia spp.	3
+1296	New Zealand	Shigella spp.	68
+1297	New Zealand	Staphylococcus aureus	556
+1298	Nicaragua	Acinetobacter baumannii	4
+1299	Nicaragua	Enterobacter spp.	2
+1300	Nicaragua	Non-typhoidal Salmonella	12
+1301	Nicaragua	Pseudomonas aeruginosa	7
+1302	Niger	Escherichia coli	222
+1303	Niger	Mycobacterium tuberculosis	1
+1304	Niger	Neisseria meningitidis	339
+1305	Niger	Non-typhoidal Salmonella	6
+1306	Niger	Salmonella enterica serovar Typhi	2
+1307	Niger	Vibrio cholerae	15
+1308	Nigeria	Acinetobacter baumannii	84
+1309	Nigeria	Aeromonas spp.	4
+1310	Nigeria	Citrobacter spp.	26
+1311	Nigeria	Enterobacter spp.	44
+1312	Nigeria	Enterococcus faecalis	6
+1313	Nigeria	Enterococcus faecium	1
+1314	Nigeria	Escherichia coli	476
+1315	Nigeria	Group B Streptococcus	43
+1316	Nigeria	Klebsiella pneumoniae	194
+1317	Nigeria	Morganella spp.	1
+1318	Nigeria	Mycobacterium tuberculosis	254
+1319	Nigeria	Mycoplasma spp.	2
+1320	Nigeria	Neisseria meningitidis	188
+1321	Nigeria	Non-typhoidal Salmonella	977
+1322	Nigeria	Other Klebsiella species	30
+1323	Nigeria	Proteus spp.	8
+1324	Nigeria	Providencia spp.	3
+1325	Nigeria	Pseudomonas aeruginosa	30
+1326	Nigeria	Salmonella enterica serovar Paratyphi	5
+1327	Nigeria	Salmonella enterica serovar Typhi	26
+1328	Nigeria	Serratia spp.	6
+1329	Nigeria	Shigella spp.	21
+1330	Nigeria	Staphylococcus aureus	68
+1331	Nigeria	Vibrio cholerae	15
+1332	North Korea	Listeria monocytogenes	1
+1333	North Korea	Non-typhoidal Salmonella	1
+1334	Norway	Campylobacter spp.	3
+1335	Norway	Citrobacter spp.	11
+1336	Norway	Enterobacter spp.	28
+1337	Norway	Enterococcus faecalis	7
+1338	Norway	Enterococcus faecium	27
+1339	Norway	Escherichia coli	1842
+1340	Norway	Group A Streptococcus	540
+1341	Norway	Group B Streptococcus	3
+1342	Norway	Haemophilus influenzae	249
+1343	Norway	Klebsiella pneumoniae	2217
+1344	Norway	Legionella spp.	222
+1345	Norway	Listeria monocytogenes	1116
+1346	Norway	Morganella spp.	1
+1347	Norway	Mycobacterium tuberculosis	238
+1348	Norway	Neisseria gonorrhoeae	2429
+1349	Norway	Neisseria meningitidis	715
+1350	Norway	Non-typhoidal Salmonella	94
+1351	Norway	Other Klebsiella species	47
+1352	Norway	Other enterococci	3
+1353	Norway	Proteus spp.	8
+1354	Norway	Providencia spp.	19
+1355	Norway	Pseudomonas aeruginosa	2
+1356	Norway	Salmonella enterica serovar Typhi	31
+1357	Norway	Serratia spp.	1
+1358	Norway	Staphylococcus aureus	146
+1359	Norway	Streptococcus pneumoniae	85
+1360	Norway	Vibrio cholerae	6
+1361	Oman	Escherichia coli	75
+1362	Oman	Klebsiella pneumoniae	244
+1363	Oman	Salmonella enterica serovar Typhi	39
+1364	Oman	Streptococcus pneumoniae	1
+1365	Pakistan	Acinetobacter baumannii	98
+1366	Pakistan	Aeromonas spp.	172
+1367	Pakistan	Campylobacter spp.	37
+1368	Pakistan	Citrobacter spp.	45
+1369	Pakistan	Enterobacter spp.	238
+1370	Pakistan	Enterococcus faecalis	1
+1371	Pakistan	Enterococcus faecium	48
+1372	Pakistan	Escherichia coli	1037
+1373	Pakistan	Klebsiella pneumoniae	371
+1374	Pakistan	Morganella spp.	3
+1375	Pakistan	Mycobacterium tuberculosis	142
+1376	Pakistan	Neisseria meningitidis	3
+1377	Pakistan	Non-typhoidal Salmonella	237
+1378	Pakistan	Other Klebsiella species	155
+1379	Pakistan	Other enterococci	8
+1380	Pakistan	Proteus spp.	2
+1381	Pakistan	Providencia spp.	4
+1382	Pakistan	Pseudomonas aeruginosa	232
+1383	Pakistan	Salmonella enterica serovar Paratyphi	7
+1384	Pakistan	Salmonella enterica serovar Typhi	106
+1385	Pakistan	Serratia spp.	39
+1386	Pakistan	Shigella spp.	228
+1387	Pakistan	Staphylococcus aureus	89
+1388	Pakistan	Vibrio cholerae	40
+1389	Palestine	Enterobacter spp.	4
+1390	Palestine	Enterococcus faecalis	1
+1391	Palestine	Enterococcus faecium	1
+1392	Palestine	Escherichia coli	26
+1393	Palestine	Klebsiella pneumoniae	2
+1394	Palestine	Non-typhoidal Salmonella	6
+1395	Palestine	Pseudomonas aeruginosa	5
+1396	Palestine	Staphylococcus aureus	61
+1397	Panama	Enterobacter spp.	5
+1398	Panama	Mycobacterium tuberculosis	8
+1399	Panama	Non-typhoidal Salmonella	7
+1400	Panama	Salmonella enterica serovar Typhi	2
+1401	Papua New Guinea	Escherichia coli	4
+1402	Papua New Guinea	Mycobacterium tuberculosis	209
+1403	Papua New Guinea	Salmonella enterica serovar Typhi	93
+1404	Papua New Guinea	Shigella spp.	1
+1405	Papua New Guinea	Streptococcus pneumoniae	2
+1406	Papua New Guinea	Vibrio cholerae	2
+1407	Paraguay	Acinetobacter baumannii	39
+1408	Paraguay	Aeromonas spp.	1
+1409	Paraguay	Campylobacter spp.	5
+1410	Paraguay	Citrobacter spp.	3
+1411	Paraguay	Enterobacter spp.	14
+1412	Paraguay	Enterococcus faecalis	11
+1413	Paraguay	Enterococcus faecium	6
+1414	Paraguay	Escherichia coli	145
+1415	Paraguay	Group A Streptococcus	1
+1416	Paraguay	Group B Streptococcus	2
+1417	Paraguay	Klebsiella pneumoniae	79
+1418	Paraguay	Listeria monocytogenes	24
+1419	Paraguay	Morganella spp.	6
+1420	Paraguay	Mycobacterium tuberculosis	471
+1421	Paraguay	Non-typhoidal Salmonella	28
+1422	Paraguay	Other Klebsiella species	10
+1423	Paraguay	Proteus spp.	7
+1424	Paraguay	Providencia spp.	1
+1425	Paraguay	Pseudomonas aeruginosa	43
+1426	Paraguay	Salmonella enterica serovar Typhi	15
+1427	Paraguay	Serratia spp.	4
+1428	Paraguay	Staphylococcus aureus	66
+1429	Peru	Aeromonas spp.	15
+1430	Peru	Campylobacter spp.	165
+1431	Peru	Citrobacter spp.	2
+1432	Peru	Enterobacter spp.	2
+1433	Peru	Escherichia coli	405
+1434	Peru	Klebsiella pneumoniae	4
+1435	Peru	Listeria monocytogenes	17
+1436	Peru	Mycobacterium tuberculosis	2773
+1437	Peru	Non-typhoidal Salmonella	281
+1438	Peru	Providencia spp.	1
+1439	Peru	Pseudomonas aeruginosa	15
+1440	Peru	Salmonella enterica serovar Typhi	11
+1441	Peru	Shigella spp.	6
+1442	Peru	Staphylococcus aureus	7
+1443	Peru	Streptococcus pneumoniae	348
+1444	Peru	Vibrio cholerae	10
+1445	Philippines	Enterobacter spp.	12
+1446	Philippines	Klebsiella pneumoniae	15
+1447	Philippines	Listeria monocytogenes	3
+1448	Philippines	Morganella spp.	1
+1449	Philippines	Mycobacterium tuberculosis	61
+1450	Philippines	Neisseria gonorrhoeae	3
+1451	Philippines	Neisseria meningitidis	3
+1452	Philippines	Non-typhoidal Salmonella	130
+1453	Philippines	Other Klebsiella species	1
+1454	Philippines	Pseudomonas aeruginosa	2
+1455	Philippines	Salmonella enterica serovar Typhi	11
+1456	Philippines	Vibrio cholerae	31
+1457	Poland	Acinetobacter baumannii	19
+1458	Poland	Aeromonas spp.	2
+1459	Poland	Campylobacter spp.	294
+1460	Poland	Chlamydia spp.	6
+1461	Poland	Clostridioides difficile	227
+1462	Poland	Enterobacter spp.	14
+1463	Poland	Enterococcus faecalis	3
+1464	Poland	Enterococcus faecium	4
+1465	Poland	Escherichia coli	471
+1466	Poland	Haemophilus influenzae	4
+1467	Poland	Klebsiella pneumoniae	49
+1468	Poland	Listeria monocytogenes	19
+1469	Poland	Mycobacterium tuberculosis	130
+1470	Poland	Mycoplasma spp.	8
+1471	Poland	Non-typhoidal Salmonella	559
+1472	Poland	Other enterococci	10
+1473	Poland	Providencia spp.	9
+1474	Poland	Pseudomonas aeruginosa	436
+1475	Poland	Salmonella enterica serovar Typhi	4
+1476	Poland	Serratia spp.	2
+1477	Poland	Staphylococcus aureus	213
+1478	Poland	Streptococcus pneumoniae	10
+1479	Portugal	Acinetobacter baumannii	3
+1480	Portugal	Campylobacter spp.	61
+1481	Portugal	Citrobacter spp.	2
+1482	Portugal	Clostridioides difficile	44
+1483	Portugal	Enterococcus faecalis	7
+1484	Portugal	Enterococcus faecium	42
+1485	Portugal	Escherichia coli	416
+1486	Portugal	Group A Streptococcus	265
+1487	Portugal	Group B Streptococcus	132
+1488	Portugal	Haemophilus influenzae	14
+1489	Portugal	Klebsiella pneumoniae	640
+1490	Portugal	Legionella spp.	13
+1491	Portugal	Listeria monocytogenes	18
+1492	Portugal	Mycobacterium tuberculosis	233
+1493	Portugal	Neisseria gonorrhoeae	33
+1494	Portugal	Non-typhoidal Salmonella	102
+1495	Portugal	Proteus spp.	1
+1496	Portugal	Pseudomonas aeruginosa	24
+1497	Portugal	Salmonella enterica serovar Typhi	6
+1498	Portugal	Serratia spp.	8
+1499	Portugal	Staphylococcus aureus	42
+1500	Portugal	Streptococcus pneumoniae	63
+1501	Puerto Rico	Acinetobacter baumannii	2
+1502	Puerto Rico	Enterobacter spp.	2
+1503	Puerto Rico	Escherichia coli	3
+1504	Puerto Rico	Listeria monocytogenes	1
+1505	Puerto Rico	Non-typhoidal Salmonella	20
+1506	Puerto Rico	Pseudomonas aeruginosa	2
+1507	Puerto Rico	Staphylococcus aureus	18
+1508	Qatar	Citrobacter spp.	3
+1509	Qatar	Enterobacter spp.	7
+1510	Qatar	Enterococcus faecium	2
+1511	Qatar	Escherichia coli	344
+1512	Qatar	Klebsiella pneumoniae	238
+1513	Qatar	Listeria monocytogenes	1
+1514	Qatar	Other Klebsiella species	34
+1515	Qatar	Proteus spp.	1
+1516	Qatar	Providencia spp.	2
+1517	Qatar	Pseudomonas aeruginosa	4
+1518	Qatar	Streptococcus pneumoniae	2
+1519	Qatar	Vibrio cholerae	7
+1520	Republic of Serbia	Enterobacter spp.	17
+1521	Republic of Serbia	Escherichia coli	7
+1522	Republic of Serbia	Klebsiella pneumoniae	47
+1523	Republic of Serbia	Mycobacterium tuberculosis	5
+1524	Republic of Serbia	Neisseria gonorrhoeae	2
+1525	Republic of Serbia	Non-typhoidal Salmonella	1
+1526	Republic of Serbia	Other Klebsiella species	1
+1527	Republic of Serbia	Staphylococcus aureus	1
+1528	Romania	Acinetobacter baumannii	5
+1529	Romania	Campylobacter spp.	45
+1530	Romania	Clostridioides difficile	45
+1531	Romania	Enterobacter spp.	12
+1532	Romania	Escherichia coli	205
+1533	Romania	Klebsiella pneumoniae	21
+1534	Romania	Listeria monocytogenes	15
+1535	Romania	Mycobacterium tuberculosis	343
+1536	Romania	Non-typhoidal Salmonella	40
+1537	Romania	Other Klebsiella species	2
+1538	Romania	Pseudomonas aeruginosa	3
+1539	Romania	Salmonella enterica serovar Typhi	1
+1540	Romania	Serratia spp.	33
+1541	Romania	Staphylococcus aureus	35
+1542	Romania	Vibrio cholerae	1
+1543	Russia	Acinetobacter baumannii	20
+1544	Russia	Aeromonas spp.	1
+1545	Russia	Chlamydia spp.	18
+1546	Russia	Citrobacter spp.	1
+1547	Russia	Enterobacter spp.	3
+1548	Russia	Enterococcus faecalis	18
+1549	Russia	Enterococcus faecium	24
+1550	Russia	Escherichia coli	181
+1551	Russia	Group A Streptococcus	2
+1552	Russia	Group B Streptococcus	13
+1553	Russia	Klebsiella pneumoniae	317
+1554	Russia	Listeria monocytogenes	105
+1555	Russia	Morganella spp.	3
+1556	Russia	Mycobacterium tuberculosis	1627
+1557	Russia	Neisseria meningitidis	22
+1558	Russia	Non-typhoidal Salmonella	581
+1559	Russia	Other Klebsiella species	16
+1560	Russia	Other enterococci	31
+1561	Russia	Proteus spp.	1
+1562	Russia	Pseudomonas aeruginosa	34
+1563	Russia	Salmonella enterica serovar Typhi	4
+1564	Russia	Serratia spp.	2
+1565	Russia	Shigella spp.	200
+1566	Russia	Staphylococcus aureus	216
+1567	Russia	Streptococcus pneumoniae	60
+1568	Russia	Vibrio cholerae	35
+1569	Rwanda	Acinetobacter baumannii	7
+1570	Rwanda	Citrobacter spp.	4
+1571	Rwanda	Enterobacter spp.	21
+1572	Rwanda	Escherichia coli	154
+1573	Rwanda	Klebsiella pneumoniae	24
+1574	Rwanda	Morganella spp.	1
+1575	Rwanda	Mycobacterium tuberculosis	436
+1576	Rwanda	Non-typhoidal Salmonella	63
+1577	Rwanda	Other Klebsiella species	8
+1578	Rwanda	Pseudomonas aeruginosa	4
+1579	Rwanda	Salmonella enterica serovar Paratyphi	2
+1580	Rwanda	Salmonella enterica serovar Typhi	53
+1581	Rwanda	Serratia spp.	2
+1582	Rwanda	Staphylococcus aureus	30
+1583	Saint Kitts and Nevis	Staphylococcus aureus	76
+1584	Saint Lucia	Non-typhoidal Salmonella	2
+1585	Saint Vincent and the Grenadines	Non-typhoidal Salmonella	1
+1586	Samoa	Group A Streptococcus	52
+1587	Samoa	Non-typhoidal Salmonella	196
+1588	Samoa	Salmonella enterica serovar Typhi	176
+1589	Samoa	Staphylococcus aureus	350
+1590	Saudi Arabia	Acinetobacter baumannii	220
+1591	Saudi Arabia	Citrobacter spp.	2
+1592	Saudi Arabia	Enterobacter spp.	3
+1593	Saudi Arabia	Enterococcus faecalis	2
+1594	Saudi Arabia	Enterococcus faecium	3
+1595	Saudi Arabia	Escherichia coli	169
+1596	Saudi Arabia	Group B Streptococcus	3
+1597	Saudi Arabia	Klebsiella pneumoniae	255
+1598	Saudi Arabia	Mycobacterium tuberculosis	1
+1599	Saudi Arabia	Non-typhoidal Salmonella	48
+1600	Saudi Arabia	Other Klebsiella species	5
+1601	Saudi Arabia	Proteus spp.	1
+1602	Saudi Arabia	Pseudomonas aeruginosa	121
+1603	Saudi Arabia	Serratia spp.	1
+1604	Saudi Arabia	Staphylococcus aureus	23
+1605	Senegal	Group B Streptococcus	4
+1606	Senegal	Mycobacterium tuberculosis	3
+1607	Senegal	Neisseria meningitidis	1
+1608	Senegal	Non-typhoidal Salmonella	120
+1609	Senegal	Other Klebsiella species	2
+1610	Senegal	Salmonella enterica serovar Paratyphi	17
+1611	Senegal	Salmonella enterica serovar Typhi	9
+1612	Senegal	Shigella spp.	2
+1613	Sierra Leone	Mycobacterium tuberculosis	4
+1614	Sierra Leone	Non-typhoidal Salmonella	15
+1615	Singapore	Acinetobacter baumannii	33
+1616	Singapore	Aeromonas spp.	5
+1617	Singapore	Campylobacter spp.	2
+1618	Singapore	Citrobacter spp.	168
+1619	Singapore	Clostridioides difficile	11
+1620	Singapore	Enterobacter spp.	473
+1621	Singapore	Enterococcus faecalis	2
+1622	Singapore	Enterococcus faecium	1
+1623	Singapore	Escherichia coli	1185
+1624	Singapore	Group B Streptococcus	721
+1625	Singapore	Klebsiella pneumoniae	1923
+1626	Singapore	Listeria monocytogenes	12
+1627	Singapore	Morganella spp.	14
+1628	Singapore	Mycobacterium tuberculosis	6
+1629	Singapore	Neisseria gonorrhoeae	1
+1630	Singapore	Non-typhoidal Salmonella	486
+1631	Singapore	Other Klebsiella species	329
+1632	Singapore	Proteus spp.	13
+1633	Singapore	Pseudomonas aeruginosa	623
+1634	Singapore	Salmonella enterica serovar Paratyphi	1
+1635	Singapore	Salmonella enterica serovar Typhi	21
+1636	Singapore	Serratia spp.	37
+1637	Singapore	Staphylococcus aureus	321
+1638	Singapore	Streptococcus pneumoniae	4
+1639	Slovakia	Clostridioides difficile	40
+1640	Slovakia	Enterococcus faecium	13
+1641	Slovakia	Escherichia coli	33
+1642	Slovakia	Listeria monocytogenes	3
+1643	Slovakia	Non-typhoidal Salmonella	4
+1644	Slovakia	Staphylococcus aureus	1
+1645	Slovenia	Campylobacter spp.	22
+1646	Slovenia	Clostridioides difficile	69
+1647	Slovenia	Escherichia coli	31
+1648	Slovenia	Klebsiella pneumoniae	35
+1649	Slovenia	Listeria monocytogenes	198
+1650	Slovenia	Mycobacterium tuberculosis	14
+1651	Slovenia	Non-typhoidal Salmonella	183
+1652	Slovenia	Other Klebsiella species	2
+1653	Slovenia	Pseudomonas aeruginosa	112
+1654	Slovenia	Staphylococcus aureus	67
+1655	Somalia	Group B Streptococcus	2
+1656	Somalia	Shigella spp.	40
+1657	Somalia	Staphylococcus aureus	5
+1658	South Africa	Acinetobacter baumannii	14
+1659	South Africa	Aeromonas spp.	50
+1660	South Africa	Campylobacter spp.	15
+1661	South Africa	Chlamydia spp.	6
+1662	South Africa	Citrobacter spp.	13
+1663	South Africa	Enterobacter spp.	28
+1664	South Africa	Enterococcus faecalis	29
+1665	South Africa	Enterococcus faecium	8
+1666	South Africa	Escherichia coli	197
+1667	South Africa	Group B Streptococcus	459
+1668	South Africa	Klebsiella pneumoniae	165
+1669	South Africa	Legionella spp.	3
+1670	South Africa	Listeria monocytogenes	317
+1671	South Africa	Mycobacterium tuberculosis	6715
+1672	South Africa	Neisseria gonorrhoeae	139
+1673	South Africa	Non-typhoidal Salmonella	6967
+1674	South Africa	Other Klebsiella species	14
+1675	South Africa	Other enterococci	12
+1676	South Africa	Proteus spp.	3
+1677	South Africa	Providencia spp.	5
+1678	South Africa	Pseudomonas aeruginosa	1
+1679	South Africa	Salmonella enterica serovar Typhi	77
+1680	South Africa	Serratia spp.	38
+1681	South Africa	Shigella spp.	538
+1682	South Africa	Staphylococcus aureus	20
+1683	South Africa	Streptococcus pneumoniae	252
+1684	South Africa	Vibrio cholerae	57
+1685	South Korea	Acinetobacter baumannii	126
+1686	South Korea	Aeromonas spp.	4
+1687	South Korea	Campylobacter spp.	19
+1688	South Korea	Enterobacter spp.	2
+1689	South Korea	Enterococcus faecalis	3
+1690	South Korea	Enterococcus faecium	15
+1691	South Korea	Escherichia coli	358
+1692	South Korea	Klebsiella pneumoniae	55
+1693	South Korea	Listeria monocytogenes	115
+1694	South Korea	Mycobacterium tuberculosis	13
+1695	South Korea	Non-typhoidal Salmonella	231
+1696	South Korea	Other enterococci	2
+1697	South Korea	Pseudomonas aeruginosa	4
+1698	South Korea	Salmonella enterica serovar Typhi	10
+1699	South Korea	Serratia spp.	10
+1700	South Korea	Shigella spp.	72
+1701	South Korea	Staphylococcus aureus	44
+1702	South Korea	Streptococcus pneumoniae	39
+1703	South Korea	Vibrio cholerae	2
+1704	Spain	Acinetobacter baumannii	36
+1705	Spain	Aeromonas spp.	8
+1706	Spain	Campylobacter spp.	577
+1707	Spain	Citrobacter spp.	104
+1708	Spain	Clostridioides difficile	267
+1709	Spain	Enterobacter spp.	402
+1710	Spain	Enterococcus faecalis	56
+1711	Spain	Enterococcus faecium	178
+1712	Spain	Escherichia coli	1761
+1713	Spain	Group A Streptococcus	56
+1714	Spain	Group B Streptococcus	26
+1715	Spain	Haemophilus influenzae	335
+1716	Spain	Klebsiella pneumoniae	3125
+1717	Spain	Legionella spp.	210
+1718	Spain	Listeria monocytogenes	284
+1719	Spain	Morganella spp.	1
+1720	Spain	Mycobacterium tuberculosis	582
+1721	Spain	Neisseria gonorrhoeae	221
+1722	Spain	Neisseria meningitidis	1
+1723	Spain	Non-typhoidal Salmonella	842
+1724	Spain	Other Klebsiella species	217
+1725	Spain	Other enterococci	23
+1726	Spain	Proteus spp.	38
+1727	Spain	Pseudomonas aeruginosa	1132
+1728	Spain	Salmonella enterica serovar Typhi	37
+1729	Spain	Serratia spp.	51
+1730	Spain	Shigella spp.	141
+1731	Spain	Staphylococcus aureus	411
+1732	Spain	Streptococcus pneumoniae	386
+1733	Spain	Vibrio cholerae	1
+1734	Sri Lanka	Escherichia coli	76
+1735	Sri Lanka	Mycobacterium tuberculosis	16
+1736	Sri Lanka	Non-typhoidal Salmonella	114
+1737	Sri Lanka	Salmonella enterica serovar Typhi	13
+1738	Sri Lanka	Shigella spp.	4
+1739	Sri Lanka	Staphylococcus aureus	35
+1740	Sudan	Acinetobacter baumannii	1
+1741	Sudan	Escherichia coli	10
+1742	Sudan	Klebsiella pneumoniae	1
+1743	Sudan	Non-typhoidal Salmonella	6
+1744	Sudan	Pseudomonas aeruginosa	2
+1745	Sudan	Salmonella enterica serovar Typhi	4
+1746	Sudan	Staphylococcus aureus	5
+1747	Sudan	Vibrio cholerae	1
+1748	Suriname	Neisseria gonorrhoeae	4
+1749	Suriname	Non-typhoidal Salmonella	18
+1750	Swaziland	Mycobacterium tuberculosis	17
+1751	Sweden	Acinetobacter baumannii	42
+1752	Sweden	Campylobacter spp.	404
+1753	Sweden	Chlamydia spp.	15
+1754	Sweden	Clostridioides difficile	62
+1755	Sweden	Enterobacter spp.	11
+1756	Sweden	Enterococcus faecalis	4
+1757	Sweden	Escherichia coli	1024
+1758	Sweden	Group A Streptococcus	32
+1759	Sweden	Group B Streptococcus	3
+1760	Sweden	Haemophilus influenzae	2
+1761	Sweden	Klebsiella pneumoniae	137
+1762	Sweden	Legionella spp.	45
+1763	Sweden	Listeria monocytogenes	281
+1764	Sweden	Mycobacterium tuberculosis	558
+1765	Sweden	Mycoplasma spp.	1
+1766	Sweden	Neisseria gonorrhoeae	10
+1767	Sweden	Non-typhoidal Salmonella	478
+1768	Sweden	Other Klebsiella species	52
+1769	Sweden	Proteus spp.	2
+1770	Sweden	Pseudomonas aeruginosa	9
+1771	Sweden	Salmonella enterica serovar Typhi	96
+1772	Sweden	Serratia spp.	4
+1773	Sweden	Shigella spp.	8
+1774	Sweden	Staphylococcus aureus	488
+1775	Sweden	Streptococcus pneumoniae	46
+1776	Sweden	Vibrio cholerae	15
+1777	Switzerland	Acinetobacter baumannii	30
+1778	Switzerland	Aeromonas spp.	5
+1779	Switzerland	Campylobacter spp.	483
+1780	Switzerland	Chlamydia spp.	40
+1781	Switzerland	Citrobacter spp.	18
+1782	Switzerland	Clostridioides difficile	390
+1783	Switzerland	Enterobacter spp.	35
+1784	Switzerland	Enterococcus faecalis	16
+1785	Switzerland	Enterococcus faecium	534
+1786	Switzerland	Escherichia coli	2595
+1787	Switzerland	Group A Streptococcus	20
+1788	Switzerland	Group B Streptococcus	18
+1789	Switzerland	Haemophilus influenzae	1
+1790	Switzerland	Klebsiella pneumoniae	508
+1791	Switzerland	Listeria monocytogenes	321
+1792	Switzerland	Morganella spp.	2
+1793	Switzerland	Mycobacterium tuberculosis	338
+1794	Switzerland	Mycoplasma spp.	3
+1795	Switzerland	Neisseria gonorrhoeae	138
+1796	Switzerland	Neisseria meningitidis	4
+1797	Switzerland	Non-typhoidal Salmonella	284
+1798	Switzerland	Other Klebsiella species	206
+1799	Switzerland	Other enterococci	23
+1800	Switzerland	Proteus spp.	22
+1801	Switzerland	Pseudomonas aeruginosa	383
+1802	Switzerland	Salmonella enterica serovar Typhi	77
+1803	Switzerland	Serratia spp.	19
+1804	Switzerland	Shigella spp.	12
+1805	Switzerland	Staphylococcus aureus	482
+1806	Switzerland	Streptococcus pneumoniae	29
+1807	Syria	Escherichia coli	1
+1808	Syria	Non-typhoidal Salmonella	127
+1809	Syria	Staphylococcus aureus	1
+1810	Taiwan	Acinetobacter baumannii	1
+1811	Taiwan	Aeromonas spp.	1
+1812	Taiwan	Campylobacter spp.	225
+1813	Taiwan	Citrobacter spp.	4
+1814	Taiwan	Clostridioides difficile	7
+1815	Taiwan	Enterobacter spp.	13
+1816	Taiwan	Escherichia coli	68
+1817	Taiwan	Haemophilus influenzae	26
+1818	Taiwan	Klebsiella pneumoniae	34
+1819	Taiwan	Listeria monocytogenes	614
+1820	Taiwan	Mycobacterium tuberculosis	363
+1821	Taiwan	Neisseria gonorrhoeae	2
+1822	Taiwan	Neisseria meningitidis	162
+1823	Taiwan	Non-typhoidal Salmonella	1127
+1824	Taiwan	Other Klebsiella species	15
+1825	Taiwan	Salmonella enterica serovar Paratyphi	1
+1826	Taiwan	Salmonella enterica serovar Typhi	22
+1827	Taiwan	Shigella spp.	4
+1828	Taiwan	Streptococcus pneumoniae	31
+1829	Taiwan	Vibrio cholerae	67
+1830	Tajikistan	Escherichia coli	1
+1831	Tajikistan	Mycobacterium tuberculosis	73
+1832	Thailand	Acinetobacter baumannii	183
+1833	Thailand	Aeromonas spp.	4
+1834	Thailand	Campylobacter spp.	3
+1835	Thailand	Citrobacter spp.	11
+1836	Thailand	Clostridioides difficile	67
+1837	Thailand	Enterobacter spp.	29
+1838	Thailand	Enterococcus faecalis	5
+1839	Thailand	Enterococcus faecium	9
+1840	Thailand	Escherichia coli	1942
+1841	Thailand	Group B Streptococcus	98
+1842	Thailand	Klebsiella pneumoniae	1275
+1843	Thailand	Listeria monocytogenes	26
+1844	Thailand	Morganella spp.	2
+1845	Thailand	Mycobacterium tuberculosis	2507
+1846	Thailand	Mycoplasma spp.	57
+1847	Thailand	Neisseria gonorrhoeae	21
+1848	Thailand	Neisseria meningitidis	14
+1849	Thailand	Non-typhoidal Salmonella	791
+1850	Thailand	Other Klebsiella species	93
+1851	Thailand	Other enterococci	1
+1852	Thailand	Proteus spp.	4
+1853	Thailand	Pseudomonas aeruginosa	82
+1854	Thailand	Salmonella enterica serovar Typhi	67
+1855	Thailand	Serratia spp.	3
+1856	Thailand	Shigella spp.	4
+1857	Thailand	Staphylococcus aureus	80
+1858	Thailand	Streptococcus pneumoniae	3253
+1859	Thailand	Vibrio cholerae	249
+1860	The Bahamas	Non-typhoidal Salmonella	23
+1861	Togo	Neisseria meningitidis	88
+1862	Togo	Non-typhoidal Salmonella	9
+1863	Togo	Salmonella enterica serovar Typhi	6
+1864	Togo	Staphylococcus aureus	1
+1865	Tonga	Campylobacter spp.	3
+1866	Tonga	Escherichia coli	4
+1867	Tonga	Non-typhoidal Salmonella	4
+1868	Tonga	Salmonella enterica serovar Typhi	6
+1869	Trinidad and Tobago	Non-typhoidal Salmonella	225
+1870	Trinidad and Tobago	Pseudomonas aeruginosa	1
+1871	Tunisia	Enterobacter spp.	6
+1872	Tunisia	Enterococcus faecalis	1
+1873	Tunisia	Enterococcus faecium	7
+1874	Tunisia	Escherichia coli	15
+1875	Tunisia	Klebsiella pneumoniae	7
+1876	Tunisia	Mycobacterium tuberculosis	53
+1877	Tunisia	Non-typhoidal Salmonella	167
+1878	Tunisia	Other Klebsiella species	4
+1879	Tunisia	Pseudomonas aeruginosa	3
+1880	Tunisia	Salmonella enterica serovar Typhi	12
+1881	Tunisia	Serratia spp.	7
+1882	Tunisia	Shigella spp.	1
+1883	Tunisia	Staphylococcus aureus	7
+1884	Turkey	Acinetobacter baumannii	7
+1885	Turkey	Aeromonas spp.	1
+1886	Turkey	Campylobacter spp.	42
+1887	Turkey	Citrobacter spp.	4
+1888	Turkey	Clostridioides difficile	1
+1889	Turkey	Enterobacter spp.	12
+1890	Turkey	Enterococcus faecalis	8
+1891	Turkey	Enterococcus faecium	3
+1892	Turkey	Escherichia coli	210
+1893	Turkey	Group B Streptococcus	2
+1894	Turkey	Klebsiella pneumoniae	262
+1895	Turkey	Listeria monocytogenes	15
+1896	Turkey	Morganella spp.	1
+1897	Turkey	Mycobacterium tuberculosis	80
+1898	Turkey	Non-typhoidal Salmonella	270
+1899	Turkey	Other Klebsiella species	21
+1900	Turkey	Proteus spp.	2
+1901	Turkey	Pseudomonas aeruginosa	12
+1902	Turkey	Salmonella enterica serovar Paratyphi	1
+1903	Turkey	Salmonella enterica serovar Typhi	5
+1904	Turkey	Serratia spp.	8
+1905	Turkey	Staphylococcus aureus	89
+1906	Turkey	Streptococcus pneumoniae	18
+1907	Uganda	Escherichia coli	137
+1908	Uganda	Klebsiella pneumoniae	7
+1909	Uganda	Mycobacterium tuberculosis	296
+1910	Uganda	Non-typhoidal Salmonella	102
+1911	Uganda	Other Klebsiella species	2
+1912	Uganda	Salmonella enterica serovar Typhi	54
+1913	Uganda	Shigella spp.	2
+1914	Uganda	Staphylococcus aureus	46
+1915	Uganda	Vibrio cholerae	10
+1916	Ukraine	Acinetobacter baumannii	6
+1917	Ukraine	Enterococcus faecium	1
+1918	Ukraine	Escherichia coli	3
+1919	Ukraine	Klebsiella pneumoniae	2
+1920	Ukraine	Listeria monocytogenes	14
+1921	Ukraine	Mycobacterium tuberculosis	1015
+1922	Ukraine	Non-typhoidal Salmonella	3
+1923	Ukraine	Pseudomonas aeruginosa	3
+1924	United Arab Emirates	Acinetobacter baumannii	1
+1925	United Arab Emirates	Enterococcus faecalis	10
+1926	United Arab Emirates	Enterococcus faecium	6
+1927	United Arab Emirates	Escherichia coli	42
+1928	United Arab Emirates	Klebsiella pneumoniae	1
+1929	United Arab Emirates	Non-typhoidal Salmonella	32
+1930	United Arab Emirates	Staphylococcus aureus	7
+1931	United Kingdom	Acinetobacter baumannii	197
+1932	United Kingdom	Aeromonas spp.	41
+1933	United Kingdom	Campylobacter spp.	11775
+1934	United Kingdom	Chlamydia spp.	32
+1935	United Kingdom	Citrobacter spp.	655
+1936	United Kingdom	Clostridioides difficile	4713
+1937	United Kingdom	Enterobacter spp.	1299
+1938	United Kingdom	Enterococcus faecalis	50
+1939	United Kingdom	Enterococcus faecium	296
+1940	United Kingdom	Escherichia coli	30647
+1941	United Kingdom	Group A Streptococcus	522
+1942	United Kingdom	Group B Streptococcus	30
+1943	United Kingdom	Haemophilus influenzae	1656
+1944	United Kingdom	Klebsiella pneumoniae	3362
+1945	United Kingdom	Legionella spp.	174
+1946	United Kingdom	Listeria monocytogenes	6284
+1947	United Kingdom	Morganella spp.	5
+1948	United Kingdom	Mycobacterium tuberculosis	3668
+1949	United Kingdom	Neisseria gonorrhoeae	2447
+1950	United Kingdom	Neisseria meningitidis	762
+1951	United Kingdom	Non-typhoidal Salmonella	61633
+1952	United Kingdom	Other Klebsiella species	495
+1953	United Kingdom	Proteus spp.	26
+1954	United Kingdom	Providencia spp.	8
+1955	United Kingdom	Pseudomonas aeruginosa	577
+1956	United Kingdom	Salmonella enterica serovar Paratyphi	1514
+1957	United Kingdom	Salmonella enterica serovar Typhi	12352
+1958	United Kingdom	Serratia spp.	29
+1959	United Kingdom	Shigella spp.	10477
+1960	United Kingdom	Staphylococcus aureus	7814
+1961	United Kingdom	Streptococcus pneumoniae	625
+1962	United Kingdom	Vibrio cholerae	33
+1963	United Republic of Tanzania	Aeromonas spp.	2
+1964	United Republic of Tanzania	Chlamydia spp.	3
+1965	United Republic of Tanzania	Citrobacter spp.	8
+1966	United Republic of Tanzania	Enterobacter spp.	1
+1967	United Republic of Tanzania	Enterococcus faecium	9
+1968	United Republic of Tanzania	Escherichia coli	20
+1969	United Republic of Tanzania	Klebsiella pneumoniae	146
+1970	United Republic of Tanzania	Mycobacterium tuberculosis	1550
+1971	United Republic of Tanzania	Non-typhoidal Salmonella	87
+1972	United Republic of Tanzania	Other Klebsiella species	2
+1973	United Republic of Tanzania	Salmonella enterica serovar Typhi	53
+1974	United Republic of Tanzania	Serratia spp.	2
+1975	United Republic of Tanzania	Shigella spp.	1
+1976	United Republic of Tanzania	Vibrio cholerae	47
+1977	United States of America	Acinetobacter baumannii	9680
+1978	United States of America	Aeromonas spp.	364
+1979	United States of America	Campylobacter spp.	65510
+1980	United States of America	Chlamydia spp.	84
+1981	United States of America	Citrobacter spp.	1261
+1982	United States of America	Clostridioides difficile	7794
+1983	United States of America	Enterobacter spp.	3642
+1984	United States of America	Enterococcus faecalis	2933
+1985	United States of America	Enterococcus faecium	5348
+1986	United States of America	Escherichia coli	110213
+1987	United States of America	Group A Streptococcus	20551
+1988	United States of America	Group B Streptococcus	6869
+1989	United States of America	Haemophilus influenzae	1694
+1990	United States of America	Klebsiella pneumoniae	14163
+1991	United States of America	Legionella spp.	2610
+1992	United States of America	Listeria monocytogenes	29318
+1993	United States of America	Morganella spp.	95
+1994	United States of America	Mycobacterium tuberculosis	4329
+1995	United States of America	Mycoplasma spp.	179
+1996	United States of America	Neisseria gonorrhoeae	15396
+1997	United States of America	Neisseria meningitidis	4398
+1998	United States of America	Non-typhoidal Salmonella	314790
+1999	United States of America	Other Klebsiella species	1618
+2000	United States of America	Other enterococci	1723
+2001	United States of America	Proteus spp.	632
+2002	United States of America	Providencia spp.	315
+2003	United States of America	Pseudomonas aeruginosa	8849
+2004	United States of America	Salmonella enterica serovar Paratyphi	72
+2005	United States of America	Salmonella enterica serovar Typhi	8351
+2006	United States of America	Serratia spp.	927
+2007	United States of America	Shigella spp.	12399
+2008	United States of America	Staphylococcus aureus	17122
+2009	United States of America	Streptococcus pneumoniae	15972
+2010	United States of America	Vibrio cholerae	842
+2011	Uruguay	Campylobacter spp.	2
+2012	Uruguay	Enterobacter spp.	2
+2013	Uruguay	Escherichia coli	10
+2014	Uruguay	Klebsiella pneumoniae	32
+2015	Uruguay	Listeria monocytogenes	105
+2016	Uruguay	Mycobacterium tuberculosis	23
+2017	Uruguay	Non-typhoidal Salmonella	5
+2018	Uruguay	Staphylococcus aureus	2
+2019	Uruguay	Streptococcus pneumoniae	3
+2020	Uzbekistan	Escherichia coli	3
+2021	Uzbekistan	Shigella spp.	2
+2022	Vanuatu	Non-typhoidal Salmonella	2
+2023	Vanuatu	Salmonella enterica serovar Typhi	4
+2024	Venezuela	Acinetobacter baumannii	4
+2025	Venezuela	Enterobacter spp.	3
+2026	Venezuela	Escherichia coli	3
+2027	Venezuela	Klebsiella pneumoniae	6
+2028	Venezuela	Listeria monocytogenes	3
+2029	Venezuela	Non-typhoidal Salmonella	49
+2030	Venezuela	Other Klebsiella species	4
+2031	Venezuela	Pseudomonas aeruginosa	1
+2032	Venezuela	Staphylococcus aureus	12
+2033	Vietnam	Acinetobacter baumannii	236
+2034	Vietnam	Aeromonas spp.	19
+2035	Vietnam	Citrobacter spp.	2
+2036	Vietnam	Enterobacter spp.	23
+2037	Vietnam	Escherichia coli	576
+2038	Vietnam	Group B Streptococcus	67
+2039	Vietnam	Klebsiella pneumoniae	583
+2040	Vietnam	Listeria monocytogenes	4
+2041	Vietnam	Mycobacterium tuberculosis	1803
+2042	Vietnam	Mycoplasma spp.	1
+2043	Vietnam	Neisseria gonorrhoeae	133
+2044	Vietnam	Neisseria meningitidis	36
+2045	Vietnam	Non-typhoidal Salmonella	789
+2046	Vietnam	Other Klebsiella species	30
+2047	Vietnam	Pseudomonas aeruginosa	51
+2048	Vietnam	Salmonella enterica serovar Paratyphi	7
+2049	Vietnam	Salmonella enterica serovar Typhi	460
+2050	Vietnam	Shigella spp.	77
+2051	Vietnam	Staphylococcus aureus	286
+2052	Vietnam	Streptococcus pneumoniae	41
+2053	Vietnam	Vibrio cholerae	205
+2054	Yemen	Non-typhoidal Salmonella	10
+2055	Zambia	Acinetobacter baumannii	7
+2056	Zambia	Enterobacter spp.	5
+2057	Zambia	Enterococcus faecalis	2
+2058	Zambia	Enterococcus faecium	1
+2059	Zambia	Escherichia coli	72
+2060	Zambia	Klebsiella pneumoniae	12
+2061	Zambia	Mycobacterium tuberculosis	21
+2062	Zambia	Non-typhoidal Salmonella	76
+2063	Zambia	Other Klebsiella species	1
+2064	Zambia	Proteus spp.	7
+2065	Zambia	Providencia spp.	1
+2066	Zambia	Pseudomonas aeruginosa	1
+2067	Zambia	Staphylococcus aureus	5
+2068	Zambia	Vibrio cholerae	2
+2069	Zimbabwe	Mycobacterium tuberculosis	26
+2070	Zimbabwe	Non-typhoidal Salmonella	71
+2071	Zimbabwe	Salmonella enterica serovar Typhi	57
+2072	Zimbabwe	Vibrio cholerae	8
